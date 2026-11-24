@@ -1,0 +1,26 @@
+[
+  {
+    "name": "floorplan",
+    "url": "https://www.mega-realty.ru/images/objects/fullsize/833407.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 36587,
+    "path": "C:\\Users\\arsen\\Desktop\\Новая папка (5)\\audit\\practical_trial\\run_20261105_003117\\property_confirmation\\floorplan.jpg"
+  },
+  {
+    "name": "building",
+    "url": "https://www.mega-realty.ru/images/objects/fullsize/417187.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 92040,
+    "path": "C:\\Users\\arsen\\Desktop\\Новая папка (5)\\audit\\practical_trial\\run_20261105_003117\\property_confirmation\\building.jpg"
+  },
+  {
+    "name": "room",
+    "url": "https://www.mega-realty.ru/images/objects/fullsize/833408.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "bytes": 24581,
+    "path": "C:\\Users\\arsen\\Desktop\\Новая папка (5)\\audit\\practical_trial\\run_20261105_003117\\property_confirmation\\room.jpg"
+  }
+]

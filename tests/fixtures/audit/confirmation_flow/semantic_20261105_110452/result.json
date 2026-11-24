@@ -1,0 +1,59 @@
+{
+  "scope": "Live isolated proof calls on recorded facts; not current premises approval.",
+  "rows": [
+    {
+      "case": "office_use",
+      "check": "concept_use",
+      "seconds": 27.81,
+      "proof": {
+        "verdict": "unknown",
+        "reason": "Независимая проверка данного условия недоступна",
+        "error_type": "ValueError"
+      },
+      "model": null
+    },
+    {
+      "case": "coffee_use",
+      "check": "concept_use",
+      "seconds": 60.0,
+      "proof": {
+        "verdict": "unknown",
+        "reason": "Независимая проверка данного условия недоступна",
+        "error_type": "AITransportError"
+      },
+      "model": null
+    },
+    {
+      "case": "coffee_access",
+      "check": "access",
+      "seconds": 52.76,
+      "proof": {
+        "verdict": "unsupported",
+        "reason": "Указано наличие отдельного входа и круглосуточного доступа, но не подтверждено, что покупатели могут свободно заходить с улицы без пропуска и записи, особенно с учетом охраняемой территории здания."
+      },
+      "model": "mistralai/mistral-large-4-1t-a52b"
+    }
+  ],
+  "checks": {
+    "explicit_office_use_supported": false,
+    "coffee_use_not_automatically_accepted": true,
+    "public_customer_access_not_inferred_from_tenant_access": true
+  },
+  "http": [
+    {
+      "start": 132854.468,
+      "model": "mistralai/mistral-large-4-1t-a52b",
+      "status": 200
+    },
+    {
+      "start": 132882.281,
+      "model": "mistralai/mistral-large-4-1t-a52b",
+      "error_type": "ReadTimeout"
+    },
+    {
+      "start": 132942.296,
+      "model": "mistralai/mistral-large-4-1t-a52b",
+      "status": 200
+    }
+  ]
+}

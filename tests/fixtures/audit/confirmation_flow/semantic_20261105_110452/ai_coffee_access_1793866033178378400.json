@@ -1,0 +1,22 @@
+{
+  "text": "{\"verdict\": \"unsupported\", \"reason\": \"Указано наличие отдельного входа и круглосуточного доступа, но не подтверждено, что покупатели могут свободно заходить с улицы без пропуска и записи, особенно с учетом охраняемой территории здания.\"}",
+  "model": "mistralai/mistral-large-4-1t-a52b",
+  "metadata": {
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 2328,
+      "completion_tokens": 1726,
+      "total_tokens": 4054,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 1664
+      }
+    },
+    "model": "mistralai/mistral-large-4-1t-a52b",
+    "response_format": "json_object",
+    "reasoning_effort": "low",
+    "reasoning_budget": null
+  }
+}

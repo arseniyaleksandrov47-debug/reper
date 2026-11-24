@@ -1,0 +1,39 @@
+:root {
+  /* Palette: Градостроительный планшет (Mineral Limestone + Graphite + Cinabar) */
+  --bg-canvas: #eff1f2;
+  --bg-paper: #ffffff;
+  --bg-subtle: #e3e6e8;
+  --bg-rail: #181b1f;
+  --bg-rail-hover: #252930;
+
+  --ink-primary: #181b1f;
+  --ink-secondary: #3f444c;
+  --ink-muted: #505660;
+  --ink-placeholder: #505660;
+  --ink-on-dark: #f8f9fa;
+  --ink-on-dark-muted: #adb4bf;
+
+  --line-hairline: #c9cfd4;
+  --line-soft: #dde1e5;
+  --line-strong: #181b1f;
+  --line-dark-rail: #2c313a;
+
+  /* Single primary signal (Vermilion / Киноварь) */
+  --signal: #d13b27;
+  --signal-hover: #b5301e;
+  --signal-tint: #fdf1ef;
+
+  /* Calibrated domain state tokens */
+  --state-verified: #166534;
+  --state-verified-bg: #eef7f1;
+  --state-warn: #9a3412;
+  --state-warn-bg: #fcf4ed;
+  --state-danger: #991b1b;
+  --state-danger-bg: #fef1f1;
+
+  --font-sans: "Golos Text", system-ui, -apple-system, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+
+  --radius-sharp: 2px;
+  --radius-control: 4px;
+}

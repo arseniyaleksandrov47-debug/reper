@@ -1,0 +1,145 @@
+{
+  "links": [
+    {
+      "href": "/images/objects/fullsize/417187.jpg"
+    },
+    {
+      "href": "#arenda_pomescheniya_245807",
+      "class": "object-anchor"
+    },
+    {
+      "href": "#arenda_pomescheniya_245807",
+      "class": "object-anchor"
+    },
+    {
+      "href": "#arenda_pomescheniya_245807",
+      "class": "object-anchor"
+    },
+    {
+      "href": "#arenda_pomescheniya_245807",
+      "class": "object-request-link"
+    },
+    {
+      "href": "#arenda_pomescheniya_245807",
+      "class": "pdf-request-link"
+    },
+    {
+      "href": "#arenda_pomescheniya_245807",
+      "class": "copy-link"
+    }
+  ],
+  "images": [
+    {
+      "src": "/images/logo.png",
+      "class": "img-responsive",
+      "alt": "ООО Университет-Мегаполис"
+    },
+    {
+      "src": "/images/icons/phone-small.png",
+      "alt": "позвоните нам"
+    },
+    {
+      "src": "/images/search.png",
+      "alt": "Поиск по номеру помещения"
+    },
+    {
+      "src": "/images/logo.png",
+      "class": "img-responsive",
+      "alt": "ООО Университет-Мегаполис"
+    },
+    {
+      "src": "/images/home.png",
+      "alt": "Главная страница"
+    },
+    {
+      "src": "/images/icons/phone.png"
+    },
+    {
+      "src": "/images/icons/whatsapp.png"
+    },
+    {
+      "src": "/images/icons/tg.png"
+    },
+    {
+      "src": "/images/icons/email.png"
+    },
+    {
+      "src": "/images/icons/pdf.png"
+    },
+    {
+      "src": "/images/icons/copy-link.png"
+    },
+    {
+      "src": "/images/objects/thumbnail/417187.jpg"
+    },
+    {
+      "src": "/images/photo.png"
+    },
+    {
+      "src": "/images/floorplan.png"
+    },
+    {
+      "src": "/images/icons/phone.png"
+    },
+    {
+      "src": "/images/icons/whatsapp.png"
+    },
+    {
+      "src": "/images/icons/tg.png"
+    },
+    {
+      "src": "/images/icons/email.png"
+    },
+    {
+      "src": "/images/icons/pdf.png"
+    },
+    {
+      "src": "/images/icons/copy-link.png"
+    },
+    {
+      "src": "/images/icons/phone.png"
+    },
+    {
+      "src": "/images/icons/whatsapp.png"
+    },
+    {
+      "src": "/images/icons/tg.png"
+    },
+    {
+      "src": "/images/icons/email.png"
+    },
+    {
+      "src": "/images/icons/pdf.png"
+    },
+    {
+      "src": "/images/icons/copy-link.png"
+    },
+    {
+      "src": "/images/objects/thumbnail/514559.jpg",
+      "class": "bc-list-img"
+    },
+    {
+      "src": "/images/objects/thumbnail/808535.jpg",
+      "class": "bc-list-img"
+    },
+    {
+      "src": "/images/objects/thumbnail/427053.jpg",
+      "class": "bc-list-img"
+    },
+    {
+      "src": "/images/objects/thumbnail/678435.jpg",
+      "class": "bc-list-img"
+    },
+    {
+      "src": "/images/objects/thumbnail/549511.jpg",
+      "class": "bc-list-img"
+    },
+    {
+      "src": "/images/objects/thumbnail/565456.jpg",
+      "class": "bc-list-img"
+    },
+    {
+      "src": "/images/wait.gif"
+    }
+  ]
+}

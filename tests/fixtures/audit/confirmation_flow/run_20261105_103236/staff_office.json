@@ -1,0 +1,259 @@
+{
+  "status": "requires_confirmation",
+  "label": "Требует подтверждения",
+  "reasons": [
+    {
+      "code": "availability",
+      "message": "Нужно подтвердить: заявленная в актуальном источнике доступность лота для аренды"
+    },
+    {
+      "code": "concept_use",
+      "message": "Нужно подтвердить: возможность использования под описанную концепцию"
+    },
+    {
+      "code": "access",
+      "message": "Нужно подтвердить: доступ сотрудников и покупателей в нужном сценарии"
+    },
+    {
+      "code": "client_requirements",
+      "message": "Нужно подтвердить: обязательные условия клиента к помещению и оснащению"
+    },
+    {
+      "code": "cost:operating_month",
+      "message": "Укажите все дополнительные ежемесячные расходы на помещение с источником и диапазоном"
+    },
+    {
+      "code": "cost:fitout_total",
+      "message": "Укажите затраты на подготовку помещения; ноль допустим только при явном подтверждении"
+    },
+    {
+      "code": "cost:amortization_months",
+      "message": "Задайте срок списания затрат на подготовку как явное допущение клиента"
+    }
+  ],
+  "checks": {
+    "availability": {
+      "result": "unknown",
+      "primary": {
+        "result": "pass",
+        "evidence_ids": [
+          "s0:freeDate"
+        ],
+        "reason": "Source explicitly states 'помещение свободно'."
+      },
+      "independent": {
+        "verdict": "unknown",
+        "reason": "s0:freeDate содержит неоднозначную формулировку 'помещение свободно' без явного указания наличия доступа для аренды в текущий момент"
+      }
+    },
+    "concept_use": {
+      "result": "unknown",
+      "primary": {
+        "result": "pass",
+        "evidence_ids": [
+          "s0:destination"
+        ],
+        "reason": "Source lists 'офис' as an allowed destination. Concept requires office use."
+      },
+      "independent": {
+        "verdict": "unknown",
+        "reason": "s0:destination указывает на возможность использования 'офис, магазин (кроме продуктового) или салон', но не доказывает, что помещение соответствует именно концепции офиса для сотрудников без продаж"
+      }
+    },
+    "access": {
+      "result": "unknown",
+      "primary": {
+        "result": "pass",
+        "evidence_ids": [
+          "s0:description"
+        ],
+        "reason": "Source states 'с отдельным входом' and 'Доступ в помещение возможен круглосуточно'. This satisfies employee access without requiring public street access."
+      },
+      "independent": {
+        "verdict": "unknown",
+        "reason": "s0:description говорит о 'круглосуточном доступе', но не уточняет, что доступ обеспечивается сотрудникам через конкретный вход, а не публике"
+      }
+    },
+    "client_requirements": {
+      "result": "unknown",
+      "primary": {
+        "result": "pass",
+        "evidence_ids": [
+          "s0:area",
+          "s0:floor",
+          "s0:climat",
+          "s0:decor",
+          "s0:planning",
+          "s0:priceIncludes"
+        ],
+        "reason": "Source provides area (46 m²), floor (1-й этаж), climat (кондиционер), decor (стандартная отделка), planning (блок 3 комнаты, с/у), priceIncludes (УСН). All are explicitly present in the source and match typical office/ar"
+      },
+      "independent": {
+        "verdict": "unknown",
+        "reason": "s0:area, s0:floor, s0:climat, s0:decor, s0:planning, s0:priceIncludes не содержат информации о наличии отдельного входа для сотрудников, что является ключевым требованием концепции"
+      }
+    }
+  },
+  "scope": "published_conditions_for_client_concept",
+  "sources": [
+    {
+      "url": "https://www.mega-realty.ru/ulitsa_zemlyanoj_val_34as2_b28454.htm#arenda_pomescheniya_245807",
+      "unit_id": "245807",
+      "address": "Москва, улица Земляной Вал, 34а ст2",
+      "area_sqm": 46.0,
+      "price_month": 114617.0,
+      "floor": "1-й этаж",
+      "facts": {
+        "id": "245807",
+        "anchor": "arenda_pomescheniya_245807",
+        "title": "Сдаётся в аренду помещение с отдельным входом 46 м², ул. Земляной Вал, 34Ас2",
+        "description": "Земляной вал ул., дом 34А, строение 2. Предлагается в аренду блок из трёх комнат, из которых две с окнами, под офис, магазин (кроме продуктов), салон. Площадь 46 метров, 1-й этаж, с отдельным входом. Хороший ремонт. Кондиционер. Доступ в помещение возможен круглосуточно. Цена аренды помещения составляет 114 617 рублей в месяц (29 900 руб. за метр в год). Собственник использует упрощённую систему налогообложения. Всего 3 минуты пешком от метро Курская.",
+        "area": "46",
+        "meterPrice": "29900",
+        "floor": "1-й этаж",
+        "destination": "офис, магазин (кроме продуктового) или салон",
+        "contract": "прямая аренда",
+        "contractType": "1",
+        "rubleContract": "0",
+        "sourcePrice": "29900",
+        "totalPrice": "114617",
+        "priceIncludes": "УСН",
+        "planning": "блок (3 комнаты, с/у)",
+        "decor": "стандартная отделка",
+        "climat": "кондиционер (сплит)",
+        "freeDate": "помещение свободно",
+        "building_context": "id=\"building-spacer\">О здании Ул. Земляной Вал, 34Ас2 бизнес-центр класса B+ Москва, улица Земляной Вал, дом 34А, строение 2 3 минуты пешком от метро Курская Юридический адрес относится к ИФНС №9 бизнес-центр класса B+, 2 этажа, на охраняемой территории Телефон + 7 495 180-32-01 <div"
+      },
+      "identity_checked": true,
+      "fetched_at": 1793864066.592863,
+      "expires_at": 1793864366.592863,
+      "age_seconds": 22.006,
+      "cache_status": "memory"
+    }
+  ],
+  "source_failures": [],
+  "evidence": {
+    "s0:id": {
+      "value": "245807",
+      "source_url": "https://www.mega-realty.ru/ulitsa_zemlyanoj_val_34as2_b28454.htm#arenda_pomescheniya_245807",
+      "fetched_at": 1793864066.592863,
+      "scope": "unit"
+    },
+    "s0:anchor": {
+      "value": "arenda_pomescheniya_245807",
+      "source_url": "https://www.mega-realty.ru/ulitsa_zemlyanoj_val_34as2_b28454.htm#arenda_pomescheniya_245807",
+      "fetched_at": 1793864066.592863,
+      "scope": "unit"
+    },
+    "s0:title": {
+      "value": "Сдаётся в аренду помещение с отдельным входом 46 м², ул. Земляной Вал, 34Ас2",
+      "source_url": "https://www.mega-realty.ru/ulitsa_zemlyanoj_val_34as2_b28454.htm#arenda_pomescheniya_245807",
+      "fetched_at": 1793864066.592863,
+      "scope": "unit"
+    },
+    "s0:description": {
+      "value": "Земляной вал ул., дом 34А, строение 2. Предлагается в аренду блок из трёх комнат, из которых две с окнами, под офис, магазин (кроме продуктов), салон. Площадь 46 метров, 1-й этаж, с отдельным входом. Хороший ремонт. Кондиционер. Доступ в помещение возможен круглосуточно. Цена аренды помещения составляет 114 617 рублей в месяц (29 900 руб. за метр в год). Собственник использует упрощённую систему налогообложения. Всего 3 минуты пешком от метро Курская.",
+      "source_url": "https://www.mega-realty.ru/ulitsa_zemlyanoj_val_34as2_b28454.htm#arenda_pomescheniya_245807",
+      "fetched_at": 1793864066.592863,
+      "scope": "unit"
+    },
+    "s0:area": {
+      "value": "46",
+      "source_url": "https://www.mega-realty.ru/ulitsa_zemlyanoj_val_34as2_b28454.htm#arenda_pomescheniya_245807",
+      "fetched_at": 1793864066.592863,
+      "scope": "unit"
+    },
+    "s0:meterPrice": {
+      "value": "29900",
+      "source_url": "https://www.mega-realty.ru/ulitsa_zemlyanoj_val_34as2_b28454.htm#arenda_pomescheniya_245807",
+      "fetched_at": 1793864066.592863,
+      "scope": "unit"
+    },
+    "s0:floor": {
+      "value": "1-й этаж",
+      "source_url": "https://www.mega-realty.ru/ulitsa_zemlyanoj_val_34as2_b28454.htm#arenda_pomescheniya_245807",
+      "fetched_at": 1793864066.592863,
+      "scope": "unit"
+    },
+    "s0:destination": {
+      "value": "офис, магазин (кроме продуктового) или салон",
+      "source_url": "https://www.mega-realty.ru/ulitsa_zemlyanoj_val_34as2_b28454.htm#arenda_pomescheniya_245807",
+      "fetched_at": 1793864066.592863,
+      "scope": "unit"
+    },
+    "s0:contract": {
+      "value": "прямая аренда",
+      "source_url": "https://www.mega-realty.ru/ulitsa_zemlyanoj_val_34as2_b28454.htm#arenda_pomescheniya_245807",
+      "fetched_at": 1793864066.592863,
+      "scope": "unit"
+    },
+    "s0:contractType": {
+      "value": "1",
+      "source_url": "https://www.mega-realty.ru/ulitsa_zemlyanoj_val_34as2_b28454.htm#arenda_pomescheniya_245807",
+      "fetched_at": 1793864066.592863,
+      "scope": "unit"
+    },
+    "s0:rubleContract": {
+      "value": "0",
+      "source_url": "https://www.mega-realty.ru/ulitsa_zemlyanoj_val_34as2_b28454.htm#arenda_pomescheniya_245807",
+      "fetched_at": 1793864066.592863,
+      "scope": "unit"
+    },
+    "s0:sourcePrice": {
+      "value": "29900",
+      "source_url": "https://www.mega-realty.ru/ulitsa_zemlyanoj_val_34as2_b28454.htm#arenda_pomescheniya_245807",
+      "fetched_at": 1793864066.592863,
+      "scope": "unit"
+    },
+    "s0:totalPrice": {
+      "value": "114617",
+      "source_url": "https://www.mega-realty.ru/ulitsa_zemlyanoj_val_34as2_b28454.htm#arenda_pomescheniya_245807",
+      "fetched_at": 1793864066.592863,
+      "scope": "unit"
+    },
+    "s0:priceIncludes": {
+      "value": "УСН",
+      "source_url": "https://www.mega-realty.ru/ulitsa_zemlyanoj_val_34as2_b28454.htm#arenda_pomescheniya_245807",
+      "fetched_at": 1793864066.592863,
+      "scope": "unit"
+    },
+    "s0:planning": {
+      "value": "блок (3 комнаты, с/у)",
+      "source_url": "https://www.mega-realty.ru/ulitsa_zemlyanoj_val_34as2_b28454.htm#arenda_pomescheniya_245807",
+      "fetched_at": 1793864066.592863,
+      "scope": "unit"
+    },
+    "s0:decor": {
+      "value": "стандартная отделка",
+      "source_url": "https://www.mega-realty.ru/ulitsa_zemlyanoj_val_34as2_b28454.htm#arenda_pomescheniya_245807",
+      "fetched_at": 1793864066.592863,
+      "scope": "unit"
+    },
+    "s0:climat": {
+      "value": "кондиционер (сплит)",
+      "source_url": "https://www.mega-realty.ru/ulitsa_zemlyanoj_val_34as2_b28454.htm#arenda_pomescheniya_245807",
+      "fetched_at": 1793864066.592863,
+      "scope": "unit"
+    },
+    "s0:freeDate": {
+      "value": "помещение свободно",
+      "source_url": "https://www.mega-realty.ru/ulitsa_zemlyanoj_val_34as2_b28454.htm#arenda_pomescheniya_245807",
+      "fetched_at": 1793864066.592863,
+      "scope": "unit"
+    },
+    "s0:building_context": {
+      "value": "id=\"building-spacer\">О здании Ул. Земляной Вал, 34Ас2 бизнес-центр класса B+ Москва, улица Земляной Вал, дом 34А, строение 2 3 минуты пешком от метро Курская Юридический адрес относится к ИФНС №9 бизнес-центр класса B+, 2 этажа, на охраняемой территории Телефон + 7 495 180-32-01 <div",
+      "source_url": "https://www.mega-realty.ru/ulitsa_zemlyanoj_val_34as2_b28454.htm#arenda_pomescheniya_245807",
+      "fetched_at": 1793864066.592863,
+      "scope": "building"
+    }
+  },
+  "models": [
+    "nvidia/nemotron-3.5-lightning-30b-a3b",
+    "poolside/laguna-xs-2.1"
+  ],
+  "checked_at": 1793864095.788812,
+  "verification_error": null,
+  "counterparty_confirmation": false,
+  "on_site_inspection": false
+}

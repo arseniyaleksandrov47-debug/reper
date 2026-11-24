@@ -1,0 +1,44 @@
+{
+  "name": "agency_home",
+  "url": "https://www.mega-realty.ru/",
+  "final_url": "https://www.mega-realty.ru/",
+  "status": 200,
+  "bytes": 51512,
+  "seconds": 6.66,
+  "fetched_at": "2026-11-05T06:33:14.207465+00:00",
+  "forms": [
+    {
+      "attributes": {
+        "method": "GET",
+        "name": "IDSearch"
+      },
+      "inputs": [
+        {
+          "id": "id-search-input",
+          "class": "form-control",
+          "type": "text",
+          "name": "idsearch",
+          "value": "",
+          "placeholder": "Номер помещения"
+        }
+      ]
+    }
+  ],
+  "scripts": [
+    "/dist/main-1.2.js"
+  ],
+  "property_links": [
+    "/arenda_ofisa_v_moskve/",
+    "/arenda_ofisa_v_moskve/",
+    "/arenda_ofisa_v_moskve/",
+    "/arenda_ofisa_v_moskve/?metro=02000810814401c50544a8980400002408",
+    "/arenda_ofisa_v_moskve/?class=2",
+    "/arenda_ofisa_v_moskve/?max_sq=50",
+    "/arenda_ofisa_v_moskve/?min_sq=50&max_sq=350",
+    "/arenda_ofisa_v_moskve/?min_sq=250&max_sq=1000",
+    "/arenda_ofisa_v_moskve/?min_sq=1000",
+    "/arenda_ofisa_v_moskve/",
+    "/arenda_ofisa_metro_paveletskaya/",
+    "/arenda_ofisa_metro_kuntsevskaya/"
+  ]
+}

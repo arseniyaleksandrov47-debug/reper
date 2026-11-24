@@ -1,0 +1,14 @@
+{
+  "scope": "Live isolated proof calls on recorded facts; not current premises approval.",
+  "recorded_source": "C:\\Users\\arsen\\Desktop\\Новая папка (5)\\audit\\confirmation_flow\\run_20261105_103236\\walk_in.json",
+  "result": {
+    "case": "coffee_access",
+    "check": "access",
+    "seconds": 52.76,
+    "proof": {
+      "verdict": "unsupported",
+      "reason": "Указано наличие отдельного входа и круглосуточного доступа, но не подтверждено, что покупатели могут свободно заходить с улицы без пропуска и записи, особенно с учетом охраняемой территории здания."
+    },
+    "model": "mistralai/mistral-large-4-1t-a52b"
+  }
+}

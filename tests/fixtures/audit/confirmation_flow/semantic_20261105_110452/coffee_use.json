@@ -1,0 +1,15 @@
+{
+  "scope": "Live isolated proof calls on recorded facts; not current premises approval.",
+  "recorded_source": "C:\\Users\\arsen\\Desktop\\Новая папка (5)\\audit\\confirmation_flow\\run_20261105_103236\\walk_in.json",
+  "result": {
+    "case": "coffee_use",
+    "check": "concept_use",
+    "seconds": 60.0,
+    "proof": {
+      "verdict": "unknown",
+      "reason": "Независимая проверка данного условия недоступна",
+      "error_type": "AITransportError"
+    },
+    "model": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "request_url": "https://www.mega-realty.ru/square_redirect.htm?id=245807",
+  "final_url": "https://www.mega-realty.ru/ulitsa_zemlyanoj_val_34as2_b28454.htm#arenda_pomescheniya_245807",
+  "status": 200,
+  "fetched_at": "2026-11-05T06:34:40.911762+00:00",
+  "redirects": [
+    {
+      "status": 301,
+      "url": "https://www.mega-realty.ru/square_redirect.htm?id=245807",
+      "location": "https://www.mega-realty.ru/ulitsa_zemlyanoj_val_34as2_b28454.htm#arenda_pomescheniya_245807"
+    }
+  ]
+}

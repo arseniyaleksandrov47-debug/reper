@@ -1,0 +1,5995 @@
+{
+  "city": "saint_petersburg",
+  "source": "https://overpass-api.de/api/interpreter",
+  "fetched_at": 1794682638.2323577,
+  "entrances": [
+    {
+      "node": "osm:92715802",
+      "lat": 59.9271933,
+      "lng": 30.3175979,
+      "station_names": [
+        "Садовая"
+      ],
+      "name": "Садовая",
+      "ref": "4",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2627502
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:255154184",
+      "lat": 59.8491008,
+      "lng": 30.3211813,
+      "station_names": [
+        "Московская"
+      ],
+      "name": "Московская",
+      "ref": "1",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2718237
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:268479754",
+      "lat": 59.9662687,
+      "lng": 30.3114486,
+      "station_names": [
+        "Петроградская"
+      ],
+      "name": "Петроградская",
+      "ref": "1",
+      "opening_hours": "05:35-00:28",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590965
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:291559503",
+      "lat": 59.9285351,
+      "lng": 30.4127524,
+      "station_names": [
+        "Новочеркасская"
+      ],
+      "name": "Новочеркасская",
+      "ref": "9",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2925270
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:291559504",
+      "lat": 59.9289947,
+      "lng": 30.4131477,
+      "station_names": [
+        "Новочеркасская"
+      ],
+      "name": "Новочеркасская",
+      "ref": "8",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2925270
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:291559505",
+      "lat": 59.929382,
+      "lng": 30.4128548,
+      "station_names": [
+        "Новочеркасская"
+      ],
+      "name": "Новочеркасская",
+      "ref": "7",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2925270
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:291559506",
+      "lat": 59.9295882,
+      "lng": 30.411869,
+      "station_names": [
+        "Новочеркасская"
+      ],
+      "name": "Новочеркасская",
+      "ref": "6",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2925270
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:291559507",
+      "lat": 59.9294335,
+      "lng": 30.4110971,
+      "station_names": [
+        "Новочеркасская"
+      ],
+      "name": "Новочеркасская",
+      "ref": "3",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2925270
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:291559510",
+      "lat": 59.9289477,
+      "lng": 30.4107019,
+      "station_names": [
+        "Новочеркасская"
+      ],
+      "name": "Новочеркасская",
+      "ref": "2",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2925270
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:291560159",
+      "lat": 59.9285781,
+      "lng": 30.410973,
+      "station_names": [
+        "Новочеркасская"
+      ],
+      "name": "Новочеркасская",
+      "ref": "1",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2925270
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:291560166",
+      "lat": 59.9283663,
+      "lng": 30.4119161,
+      "station_names": [
+        "Новочеркасская"
+      ],
+      "name": "Новочеркасская",
+      "ref": "12",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2925270
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:309943041",
+      "lat": 59.9072677,
+      "lng": 30.4832161,
+      "station_names": [
+        "Улица Дыбенко"
+      ],
+      "name": "Улица Дыбенко",
+      "ref": "",
+      "opening_hours": "00:00-00:05,05:35-24:00",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590955
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:315074823",
+      "lat": 59.9242023,
+      "lng": 30.3852207,
+      "station_names": [
+        "Площадь Александра Невского 1"
+      ],
+      "name": "Площадь Александра Невского-1",
+      "ref": "",
+      "opening_hours": "05:32-00:25",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590966
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:316828146",
+      "lat": 59.9236734,
+      "lng": 30.383664,
+      "station_names": [
+        "Площадь Александра Невского 2"
+      ],
+      "name": "Площадь Александра Невского-2",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590967
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:318455870",
+      "lat": 59.9316217,
+      "lng": 30.3601577,
+      "station_names": [
+        "Площадь Восстания"
+      ],
+      "name": "Площадь Восстания",
+      "ref": "",
+      "opening_hours": "05:40-00:45",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        3325602
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:318455877",
+      "lat": 59.9315668,
+      "lng": 30.3608521,
+      "station_names": [
+        "Площадь Восстания"
+      ],
+      "name": "Площадь Восстания",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:40-00:25",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        3325602
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:348147331",
+      "lat": 59.8516936,
+      "lng": 30.2670167,
+      "station_names": [
+        "Ленинский проспект"
+      ],
+      "name": "Ленинский проспект",
+      "ref": "2",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2925397
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:348147359",
+      "lat": 59.8516922,
+      "lng": 30.2696748,
+      "station_names": [
+        "Ленинский проспект"
+      ],
+      "name": "Ленинский проспект",
+      "ref": "4",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2925397
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:348147367",
+      "lat": 59.8520488,
+      "lng": 30.2696915,
+      "station_names": [
+        "Ленинский проспект"
+      ],
+      "name": "Ленинский проспект",
+      "ref": "3",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2925397
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:348147375",
+      "lat": 59.8520573,
+      "lng": 30.2670263,
+      "station_names": [
+        "Ленинский проспект"
+      ],
+      "name": "Ленинский проспект",
+      "ref": "1",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2925397
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:348148610",
+      "lat": 59.9445053,
+      "lng": 30.3595223,
+      "station_names": [
+        "Чернышевская"
+      ],
+      "name": "Чернышевская",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:38-00:25",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590961
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:348149695",
+      "lat": 60.0352274,
+      "lng": 30.4183908,
+      "station_names": [
+        "Гражданский проспект"
+      ],
+      "name": "Гражданский проспект",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:30-00:44",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        12444293
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:348149970",
+      "lat": 60.0508696,
+      "lng": 30.4426878,
+      "station_names": [
+        "Девяткино"
+      ],
+      "name": "Девяткино",
+      "ref": "18",
+      "opening_hours": "05:32-24:00",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        12441814
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Девяткино",
+          "Проспект Ветеранов",
+          "Девяткино",
+          "Проспект Ветеранов"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:353927287",
+      "lat": 59.9610394,
+      "lng": 30.2923018,
+      "station_names": [
+        "Чкаловская"
+      ],
+      "name": "Чкаловская",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:35-00:50",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        9334732
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:410853960",
+      "lat": 59.8495009,
+      "lng": 30.3219624,
+      "station_names": [
+        "Московская"
+      ],
+      "name": "Московская",
+      "ref": "4",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2718237
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:413927289",
+      "lat": 59.8791296,
+      "lng": 30.3189413,
+      "station_names": [
+        "Электросила"
+      ],
+      "name": "Электросила",
+      "ref": "",
+      "opening_hours": "05:40-00:35",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590980
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:529634631",
+      "lat": 59.8650439,
+      "lng": 30.4702143,
+      "station_names": [
+        "Пролетарская"
+      ],
+      "name": "Пролетарская",
+      "ref": "",
+      "opening_hours": "05:36-00:55",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        4286566
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:643778761",
+      "lat": 59.9010505,
+      "lng": 30.275087,
+      "station_names": [
+        "Нарвская"
+      ],
+      "name": "Нарвская",
+      "ref": "",
+      "opening_hours": "05:36-00:50",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590979
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:648222971",
+      "lat": 59.8493404,
+      "lng": 30.3211728,
+      "station_names": [
+        "Московская"
+      ],
+      "name": "Московская",
+      "ref": "2",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2718237
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:648222973",
+      "lat": 59.8490765,
+      "lng": 30.3219808,
+      "station_names": [
+        "Московская"
+      ],
+      "name": "Московская",
+      "ref": "3",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2718237
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:648242362",
+      "lat": 59.8534653,
+      "lng": 30.3208879,
+      "station_names": [
+        "Московская"
+      ],
+      "name": "Московская",
+      "ref": "6",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2718237
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:648242364",
+      "lat": 59.8532332,
+      "lng": 30.3209008,
+      "station_names": [
+        "Московская"
+      ],
+      "name": "Московская",
+      "ref": "5",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2718237
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:648242366",
+      "lat": 59.8531401,
+      "lng": 30.3217623,
+      "station_names": [
+        "Московская"
+      ],
+      "name": "Московская",
+      "ref": "7",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2718237
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:648242369",
+      "lat": 59.8535704,
+      "lng": 30.3217357,
+      "station_names": [
+        "Московская"
+      ],
+      "name": "Московская",
+      "ref": "8",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2718237
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:666934478",
+      "lat": 59.833267,
+      "lng": 30.3490121,
+      "station_names": [
+        "Звёздная"
+      ],
+      "name": "Звёздная",
+      "ref": "",
+      "opening_hours": "05:31-00:45",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590982
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:667330261",
+      "lat": 60.0672604,
+      "lng": 30.3342753,
+      "station_names": [
+        "Парнас"
+      ],
+      "name": "Парнас",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:40-00:02",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590946
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Парнас",
+          "Купчино",
+          "Парнас",
+          "Купчино"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:667330910",
+      "lat": 60.0372407,
+      "lng": 30.3216793,
+      "station_names": [
+        "Озерки"
+      ],
+      "name": "Озерки",
+      "ref": "",
+      "opening_hours": "05:40-00:41",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590951
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:667333214",
+      "lat": 59.8917404,
+      "lng": 30.3179891,
+      "station_names": [
+        "Московские ворота"
+      ],
+      "name": "Московские ворота",
+      "ref": "",
+      "opening_hours": "05:43-00:33",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2618405
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:674962986",
+      "lat": 59.8792441,
+      "lng": 30.3189513,
+      "station_names": [
+        "Электросила"
+      ],
+      "name": "Электросила",
+      "ref": "",
+      "opening_hours": "05:40-00:50",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590980
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:676789251",
+      "lat": 59.928466,
+      "lng": 30.4124136,
+      "station_names": [
+        "Новочеркасская"
+      ],
+      "name": "Новочеркасская",
+      "ref": "10",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2925270
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:676789260",
+      "lat": 59.9295348,
+      "lng": 30.4115779,
+      "station_names": [
+        "Новочеркасская"
+      ],
+      "name": "Новочеркасская",
+      "ref": "5",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2925270
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:676789266",
+      "lat": 59.9284251,
+      "lng": 30.4122046,
+      "station_names": [
+        "Новочеркасская"
+      ],
+      "name": "Новочеркасская",
+      "ref": "11",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2925270
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:676789271",
+      "lat": 59.9294935,
+      "lng": 30.4113691,
+      "station_names": [
+        "Новочеркасская"
+      ],
+      "name": "Новочеркасская",
+      "ref": "4",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2925270
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:697434055",
+      "lat": 59.9446874,
+      "lng": 30.3599535,
+      "station_names": [
+        "Чернышевская"
+      ],
+      "name": "Чернышевская",
+      "ref": "",
+      "opening_hours": "05:38-00:40",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590961
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:698657806",
+      "lat": 60.0513928,
+      "lng": 30.3328384,
+      "station_names": [
+        "Проспект Просвещения"
+      ],
+      "name": "Проспект Просвещения",
+      "ref": "",
+      "opening_hours": "05:45-01:05",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590947
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:698657807",
+      "lat": 60.0516336,
+      "lng": 30.3324383,
+      "station_names": [
+        "Проспект Просвещения"
+      ],
+      "name": "Проспект Просвещения",
+      "ref": "",
+      "opening_hours": "05:45-00:40",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590947
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:698657809",
+      "lat": 60.0515594,
+      "lng": 30.3328442,
+      "station_names": [
+        "Проспект Просвещения"
+      ],
+      "name": "Проспект Просвещения",
+      "ref": "",
+      "opening_hours": "05:45-00:40",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590947
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:763045997",
+      "lat": 59.9271707,
+      "lng": 30.3203667,
+      "station_names": [
+        "Сенная площадь"
+      ],
+      "name": "Сенная площадь",
+      "ref": "5",
+      "opening_hours": "05:36-00:26",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2627503
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:763045998",
+      "lat": 59.9270964,
+      "lng": 30.3201853,
+      "station_names": [
+        "Сенная площадь"
+      ],
+      "name": "Сенная площадь",
+      "ref": "5",
+      "opening_hours": "05:36-00:40",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2627503
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:808071410",
+      "lat": 59.9350242,
+      "lng": 30.3300639,
+      "station_names": [
+        "Невский проспект",
+        "Гостиный двор"
+      ],
+      "name": "Невский проспект",
+      "ref": "4",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590943,
+        7590969
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:808071481",
+      "lat": 59.9349141,
+      "lng": 30.3309675,
+      "station_names": [
+        "Невский проспект",
+        "Гостиный двор"
+      ],
+      "name": "Невский проспект",
+      "ref": "3",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590943,
+        7590969
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:836617905",
+      "lat": 59.9326802,
+      "lng": 30.4390651,
+      "station_names": [
+        "Ладожская",
+        "Санкт-Петербург-Ладожский"
+      ],
+      "name": "Ладожская",
+      "ref": "1",
+      "opening_hours": "05:37-00:20",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590956,
+        12097035
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:836617908",
+      "lat": 59.9276459,
+      "lng": 30.3479278,
+      "station_names": [
+        "Владимирская"
+      ],
+      "name": "Владимирская",
+      "ref": "",
+      "opening_hours": "05:35-00:26",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590970
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:846585665",
+      "lat": 59.9517826,
+      "lng": 30.2906139,
+      "station_names": [
+        "Спортивная"
+      ],
+      "name": "Спортивная",
+      "ref": "1",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590977
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:846585667",
+      "lat": 59.9517026,
+      "lng": 30.291978,
+      "station_names": [
+        "Спортивная"
+      ],
+      "name": "Спортивная",
+      "ref": "4",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590977
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:846585677",
+      "lat": 59.9522576,
+      "lng": 30.2911577,
+      "station_names": [
+        "Спортивная"
+      ],
+      "name": "Спортивная",
+      "ref": "2",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590977
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:846585678",
+      "lat": 59.9515798,
+      "lng": 30.2916746,
+      "station_names": [
+        "Спортивная"
+      ],
+      "name": "Спортивная",
+      "ref": "5",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590977
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:923969835",
+      "lat": 59.926335,
+      "lng": 30.3179611,
+      "station_names": [
+        "Садовая"
+      ],
+      "name": "Садовая",
+      "ref": "1",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2627502
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:923969862",
+      "lat": 59.926595,
+      "lng": 30.31858,
+      "station_names": [
+        "Садовая"
+      ],
+      "name": "Садовая",
+      "ref": "2",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2627502
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:924121813",
+      "lat": 59.8415212,
+      "lng": 30.2535649,
+      "station_names": [
+        "Проспект Ветеранов"
+      ],
+      "name": "Проспект Ветеранов",
+      "ref": "2",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2925339
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:924121819",
+      "lat": 59.8422108,
+      "lng": 30.2504341,
+      "station_names": [
+        "Проспект Ветеранов"
+      ],
+      "name": "Проспект Ветеранов",
+      "ref": "6",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2925339
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:924121824",
+      "lat": 59.842287,
+      "lng": 30.2498143,
+      "station_names": [
+        "Проспект Ветеранов"
+      ],
+      "name": "Проспект Ветеранов",
+      "ref": "5",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2925339
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:924121827",
+      "lat": 59.8418872,
+      "lng": 30.2496805,
+      "station_names": [
+        "Проспект Ветеранов"
+      ],
+      "name": "Проспект Ветеранов",
+      "ref": "7",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2925339
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:924121876",
+      "lat": 59.8418138,
+      "lng": 30.2502611,
+      "station_names": [
+        "Проспект Ветеранов"
+      ],
+      "name": "Проспект Ветеранов",
+      "ref": "8",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2925339
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:924121883",
+      "lat": 59.8417112,
+      "lng": 30.2536154,
+      "station_names": [
+        "Проспект Ветеранов"
+      ],
+      "name": "Проспект Ветеранов",
+      "ref": "4",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2925339
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:924121919",
+      "lat": 59.8416832,
+      "lng": 30.2542959,
+      "station_names": [
+        "Проспект Ветеранов"
+      ],
+      "name": "Проспект Ветеранов",
+      "ref": "3",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2925339
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:946973290",
+      "lat": 59.8420272,
+      "lng": 30.2500351,
+      "station_names": [
+        "Проспект Ветеранов"
+      ],
+      "name": "Проспект Ветеранов",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [],
+      "station_binding": "entrance_name_and_station_catalogue",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:946973292",
+      "lat": 59.8485003,
+      "lng": 30.45775,
+      "station_names": [
+        "Обухово"
+      ],
+      "name": "Обухово",
+      "ref": "",
+      "opening_hours": "05:40-00:40",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590959,
+        8366319
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:946973293",
+      "lat": 59.9562059,
+      "lng": 30.3191637,
+      "station_names": [
+        "Горьковская"
+      ],
+      "name": "Горьковская",
+      "ref": "",
+      "opening_hours": "05:37-00:45",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590964
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:950308631",
+      "lat": 59.9203844,
+      "lng": 30.3298203,
+      "station_names": [
+        "Пушкинская",
+        "Витебский вокзал"
+      ],
+      "name": "Пушкинская",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:38-00:28",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2656893,
+        12463745
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:950308633",
+      "lat": 59.9206996,
+      "lng": 30.3295485,
+      "station_names": [
+        "Пушкинская"
+      ],
+      "name": "Пушкинская",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:38-00:45",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2656893
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:984967493",
+      "lat": 59.8302748,
+      "lng": 30.3767261,
+      "station_names": [
+        "Купчино"
+      ],
+      "name": "Купчино",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2718264
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:986528828",
+      "lat": 59.8498474,
+      "lng": 30.2676328,
+      "station_names": [
+        "Ленинский проспект"
+      ],
+      "name": "Ленинский проспект",
+      "ref": "6",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2925397
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:986528830",
+      "lat": 59.84954,
+      "lng": 30.2676277,
+      "station_names": [
+        "Ленинский проспект"
+      ],
+      "name": "Ленинский проспект",
+      "ref": "5",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2925397
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:986529360",
+      "lat": 59.8498467,
+      "lng": 30.2689817,
+      "station_names": [
+        "Ленинский проспект"
+      ],
+      "name": "Ленинский проспект",
+      "ref": "8",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2925397
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:986529361",
+      "lat": 59.84953,
+      "lng": 30.2689791,
+      "station_names": [
+        "Ленинский проспект"
+      ],
+      "name": "Ленинский проспект",
+      "ref": "7",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2925397
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:990212227",
+      "lat": 59.9563544,
+      "lng": 30.3187181,
+      "station_names": [
+        "Горьковская"
+      ],
+      "name": "Горьковская",
+      "ref": "",
+      "opening_hours": "05:37-00:26",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590964
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1023996897",
+      "lat": 59.829742,
+      "lng": 30.3738089,
+      "station_names": [
+        "Купчино"
+      ],
+      "name": "Купчино",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2718264
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1023996938",
+      "lat": 59.8299709,
+      "lng": 30.3748914,
+      "station_names": [
+        "Купчино"
+      ],
+      "name": "Купчино",
+      "ref": "11",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2718264
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1023997003",
+      "lat": 59.8292261,
+      "lng": 30.3753019,
+      "station_names": [
+        "Купчино"
+      ],
+      "name": "Купчино",
+      "ref": "12",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2718264
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1043074280",
+      "lat": 59.9268505,
+      "lng": 30.3167762,
+      "station_names": [
+        "Садовая"
+      ],
+      "name": "Садовая",
+      "ref": "3",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2627502
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1109163066",
+      "lat": 59.9293603,
+      "lng": 30.3619648,
+      "station_names": [
+        "Площадь Восстания"
+      ],
+      "name": "Площадь Восстания - 2",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:40-00:25",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        3325602
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1109163125",
+      "lat": 59.9292776,
+      "lng": 30.3609937,
+      "station_names": [
+        "Площадь Восстания"
+      ],
+      "name": "Площадь Восстания - 2",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:40-00:25",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        3325602
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1109163128",
+      "lat": 59.9313858,
+      "lng": 30.3551366,
+      "station_names": [
+        "Маяковская"
+      ],
+      "name": "Маяковская",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:37-00:25",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        3325600
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1109163132",
+      "lat": 59.9298092,
+      "lng": 30.3612121,
+      "station_names": [
+        "Площадь Восстания"
+      ],
+      "name": "",
+      "ref": "2",
+      "opening_hours": "05:40-00:45",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        3325602
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1109163144",
+      "lat": 59.9297896,
+      "lng": 30.3609386,
+      "station_names": [
+        "Площадь Восстания"
+      ],
+      "name": "",
+      "ref": "3",
+      "opening_hours": "05:40-00:45",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        3325602
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1119799048",
+      "lat": 59.9225347,
+      "lng": 30.3355464,
+      "station_names": [
+        "Звенигородская"
+      ],
+      "name": "Звенигородская",
+      "ref": "",
+      "opening_hours": "05:38-00:23",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2656895
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1132515960",
+      "lat": 60.0023103,
+      "lng": 30.2965184,
+      "station_names": [
+        "Пионерская"
+      ],
+      "name": "Пионерская",
+      "ref": "",
+      "opening_hours": "05:45-00:35",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590953
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1138170140",
+      "lat": 60.0165804,
+      "lng": 30.3153893,
+      "station_names": [
+        "Удельная"
+      ],
+      "name": "Удельная",
+      "ref": "1",
+      "opening_hours": "05:43-00:55",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590952
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1138170181",
+      "lat": 60.0165621,
+      "lng": 30.3157361,
+      "station_names": [
+        "Удельная"
+      ],
+      "name": "Удельная",
+      "ref": "2",
+      "opening_hours": "05:43-00:55",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590952
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1138170258",
+      "lat": 60.0168122,
+      "lng": 30.315639,
+      "station_names": [
+        "Удельная"
+      ],
+      "name": "Удельная",
+      "ref": "",
+      "opening_hours": "05:43-00:38",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590952
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1138170281",
+      "lat": 60.0167318,
+      "lng": 30.3153305,
+      "station_names": [
+        "Удельная"
+      ],
+      "name": "Удельная",
+      "ref": "",
+      "opening_hours": "05:43-00:38",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590952
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1172985005",
+      "lat": 59.9324445,
+      "lng": 30.4397028,
+      "station_names": [
+        "Ладожская",
+        "Санкт-Петербург-Ладожский"
+      ],
+      "name": "Ладожская",
+      "ref": "2",
+      "opening_hours": "05:37-00:20",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590956,
+        12097035
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1172985008",
+      "lat": 59.932516,
+      "lng": 30.4388546,
+      "station_names": [
+        "Ладожская"
+      ],
+      "name": "Ладожская",
+      "ref": "1",
+      "opening_hours": "05:37-00:40",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590956
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1179673927",
+      "lat": 59.9323051,
+      "lng": 30.4395217,
+      "station_names": [
+        "Ладожская"
+      ],
+      "name": "Ладожская",
+      "ref": "2",
+      "opening_hours": "05:37-00:40",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590956
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1206756228",
+      "lat": 59.9662473,
+      "lng": 30.3118374,
+      "station_names": [],
+      "name": "",
+      "ref": "1",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [],
+      "station_binding": "unbound",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1377504176",
+      "lat": 59.8300447,
+      "lng": 30.3736602,
+      "station_names": [
+        "Купчино"
+      ],
+      "name": "Купчино",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2718264
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1394248514",
+      "lat": 60.0082429,
+      "lng": 30.2584854,
+      "station_names": [
+        "Комендантский проспект"
+      ],
+      "name": "Комендантский проспект",
+      "ref": "4",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2618527
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Комендантский проспект",
+          "Шушары",
+          "Комендант-ский проспект",
+          "Шушары"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1394248520",
+      "lat": 60.0084659,
+      "lng": 30.2592304,
+      "station_names": [
+        "Комендантский проспект"
+      ],
+      "name": "Комендантский проспект",
+      "ref": "3",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2618527
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Комендантский проспект",
+          "Шушары",
+          "Комендант-ский проспект",
+          "Шушары"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1394248522",
+      "lat": 60.0085694,
+      "lng": 30.2580939,
+      "station_names": [
+        "Комендантский проспект"
+      ],
+      "name": "Комендантский проспект",
+      "ref": "2",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2618527
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Комендантский проспект",
+          "Шушары",
+          "Комендант-ский проспект",
+          "Шушары"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1394248524",
+      "lat": 60.0087953,
+      "lng": 30.2588357,
+      "station_names": [
+        "Комендантский проспект"
+      ],
+      "name": "Комендантский проспект",
+      "ref": "1",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2618527
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Комендантский проспект",
+          "Шушары",
+          "Комендант-ский проспект",
+          "Шушары"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1397865571",
+      "lat": 59.971145,
+      "lng": 30.3479801,
+      "station_names": [
+        "Выборгская"
+      ],
+      "name": "Выборгская",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590963
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1397865573",
+      "lat": 59.9712379,
+      "lng": 30.3486247,
+      "station_names": [
+        "Выборгская"
+      ],
+      "name": "Выборгская",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590963
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1426965001",
+      "lat": 59.9711991,
+      "lng": 30.3476197,
+      "station_names": [
+        "Выборгская"
+      ],
+      "name": "Выборгская",
+      "ref": "",
+      "opening_hours": "05:44-00:30",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590963
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1426979795",
+      "lat": 59.9711788,
+      "lng": 30.3482102,
+      "station_names": [
+        "Выборгская"
+      ],
+      "name": "Выборгская",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590963
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1426979796",
+      "lat": 59.9712036,
+      "lng": 30.3484158,
+      "station_names": [
+        "Выборгская"
+      ],
+      "name": "Выборгская",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590963
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1427002108",
+      "lat": 59.9712138,
+      "lng": 30.3471605,
+      "station_names": [
+        "Выборгская"
+      ],
+      "name": "Выборгская",
+      "ref": "",
+      "opening_hours": "05:44-00:30",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590963
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1479478805",
+      "lat": 59.9196409,
+      "lng": 30.4670319,
+      "station_names": [
+        "Проспект Большевиков"
+      ],
+      "name": "Проспект Большевиков",
+      "ref": "",
+      "opening_hours": "05:37-00:23",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590954
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1508561575",
+      "lat": 59.9585394,
+      "lng": 30.3550987,
+      "station_names": [
+        "Площадь Ленина"
+      ],
+      "name": "Площадь Ленина - 2",
+      "ref": "2",
+      "opening_hours": "Mo-Su 05:35-22:00",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590942
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1559513119",
+      "lat": 59.9713084,
+      "lng": 30.3479004,
+      "station_names": [
+        "Выборгская"
+      ],
+      "name": "Выборгская",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590963
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1645794192",
+      "lat": 59.9143904,
+      "lng": 30.3495178,
+      "station_names": [
+        "Обводный канал"
+      ],
+      "name": "Обводный канал",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:35-00:24",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2656883
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1646568635",
+      "lat": 59.9854357,
+      "lng": 30.3011738,
+      "station_names": [
+        "Чёрная речка"
+      ],
+      "name": "Чёрная речка",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:45-00:50",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590974
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1646568762",
+      "lat": 59.9855993,
+      "lng": 30.3007945,
+      "station_names": [
+        "Чёрная речка"
+      ],
+      "name": "Чёрная речка",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:45-00:32",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590974
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1652691240",
+      "lat": 59.9242358,
+      "lng": 30.385375,
+      "station_names": [
+        "Площадь Александра Невского 1"
+      ],
+      "name": "Площадь Александра Невского-1",
+      "ref": "",
+      "opening_hours": "05:32-00:25",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590966
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1669404531",
+      "lat": 59.9895694,
+      "lng": 30.2548193,
+      "station_names": [
+        "Старая Деревня"
+      ],
+      "name": "Старая Деревня",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:38-00:39",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590975
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1669404539",
+      "lat": 59.989591,
+      "lng": 30.2555645,
+      "station_names": [
+        "Старая Деревня"
+      ],
+      "name": "Старая Деревня",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:38-00:55",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590975
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1669412330",
+      "lat": 60.0026646,
+      "lng": 30.2963845,
+      "station_names": [
+        "Пионерская"
+      ],
+      "name": "Пионерская",
+      "ref": "",
+      "opening_hours": "05:45-00:35",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590953
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1669412333",
+      "lat": 60.0024755,
+      "lng": 30.2968938,
+      "station_names": [
+        "Пионерская"
+      ],
+      "name": "Пионерская",
+      "ref": "",
+      "opening_hours": "05:45-00:55",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590953
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1669544276",
+      "lat": 59.8307155,
+      "lng": 30.5010264,
+      "station_names": [
+        "Рыбацкое"
+      ],
+      "name": "Рыбацкое",
+      "ref": "",
+      "opening_hours": "05:38-00:05",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590960
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Рыбацкое",
+          "Беговая",
+          "Рыбацкое",
+          "Беговая"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1669544283",
+      "lat": 59.8311269,
+      "lng": 30.5024636,
+      "station_names": [
+        "Рыбацкое"
+      ],
+      "name": "Рыбацкое",
+      "ref": "1",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590960
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Рыбацкое",
+          "Беговая",
+          "Рыбацкое",
+          "Беговая"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1669544290",
+      "lat": 59.8314041,
+      "lng": 30.5017274,
+      "station_names": [
+        "Рыбацкое"
+      ],
+      "name": "Рыбацкое",
+      "ref": "3",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590960
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Рыбацкое",
+          "Беговая",
+          "Рыбацкое",
+          "Беговая"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1675662037",
+      "lat": 59.8414934,
+      "lng": 30.2542564,
+      "station_names": [
+        "Проспект Ветеранов"
+      ],
+      "name": "Проспект Ветеранов",
+      "ref": "1",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2925339
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1720800873",
+      "lat": 59.9661847,
+      "lng": 30.3109772,
+      "station_names": [
+        "Петроградская"
+      ],
+      "name": "Петроградская",
+      "ref": "2",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590965
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1720800877",
+      "lat": 59.9663032,
+      "lng": 30.3114167,
+      "station_names": [
+        "Петроградская"
+      ],
+      "name": "Петроградская",
+      "ref": "",
+      "opening_hours": "05:35-00:28",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590965
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1720800885",
+      "lat": 59.9663202,
+      "lng": 30.3108472,
+      "station_names": [
+        "Петроградская"
+      ],
+      "name": "Петроградская",
+      "ref": "3",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590965
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1735167407",
+      "lat": 59.8672945,
+      "lng": 30.2611952,
+      "station_names": [
+        "Автово"
+      ],
+      "name": "Автово",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:30-00:42",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590983
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1735167424",
+      "lat": 59.9074233,
+      "lng": 30.2997962,
+      "station_names": [
+        "Балтийская",
+        "Балтийский вокзал"
+      ],
+      "name": "Балтийская",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:36-00:33",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2705069,
+        6778153
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1735167440",
+      "lat": 59.9011136,
+      "lng": 30.2745693,
+      "station_names": [
+        "Нарвская"
+      ],
+      "name": "Нарвская",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:36-00:36",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590979
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1735235519",
+      "lat": 59.955603,
+      "lng": 30.3556161,
+      "station_names": [
+        "Площадь Ленина"
+      ],
+      "name": "Площадь Ленина - 1",
+      "ref": "1",
+      "opening_hours": "Mo-Su 05:35-00:28",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590942
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1867199340",
+      "lat": 60.0669836,
+      "lng": 30.3343135,
+      "station_names": [
+        "Парнас"
+      ],
+      "name": "Парнас",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:40-01:02",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590946
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Парнас",
+          "Купчино",
+          "Парнас",
+          "Купчино"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1867199348",
+      "lat": 60.0670728,
+      "lng": 30.3338593,
+      "station_names": [
+        "Парнас"
+      ],
+      "name": "Парнас",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:40-01:02",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590946
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Парнас",
+          "Купчино",
+          "Парнас",
+          "Купчино"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1872851145",
+      "lat": 59.8294022,
+      "lng": 30.3771433,
+      "station_names": [
+        "Купчино"
+      ],
+      "name": "Купчино",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2718264
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1876375517",
+      "lat": 59.8293784,
+      "lng": 30.3754186,
+      "station_names": [
+        "Купчино"
+      ],
+      "name": "Купчино",
+      "ref": "",
+      "opening_hours": "05:30-01:02",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2718264
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1876375530",
+      "lat": 59.8294043,
+      "lng": 30.3759415,
+      "station_names": [
+        "Купчино"
+      ],
+      "name": "Купчино",
+      "ref": "2",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [],
+      "station_binding": "entrance_name_and_station_catalogue",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1876375548",
+      "lat": 59.8297037,
+      "lng": 30.3758536,
+      "station_names": [
+        "Купчино"
+      ],
+      "name": "Купчино",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2718264
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1876375593",
+      "lat": 59.8298793,
+      "lng": 30.3751695,
+      "station_names": [
+        "Купчино"
+      ],
+      "name": "Купчино",
+      "ref": "",
+      "opening_hours": "05:30-01:02",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2718264
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1876375617",
+      "lat": 59.8299948,
+      "lng": 30.3756485,
+      "station_names": [
+        "Купчино"
+      ],
+      "name": "Купчино",
+      "ref": "1",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [],
+      "station_binding": "entrance_name_and_station_catalogue",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1933529453",
+      "lat": 59.9610269,
+      "lng": 30.2917982,
+      "station_names": [
+        "Чкаловская"
+      ],
+      "name": "Чкаловская",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:35-00:33",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        9334732
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1984329786",
+      "lat": 59.8650499,
+      "lng": 30.4702967,
+      "station_names": [
+        "Пролетарская"
+      ],
+      "name": "Пролетарская",
+      "ref": "",
+      "opening_hours": "05:36-00:35",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        4286566
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:1998400860",
+      "lat": 60.0504457,
+      "lng": 30.443647,
+      "station_names": [
+        "Девяткино"
+      ],
+      "name": "Девяткино",
+      "ref": "11",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        12441814
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Девяткино",
+          "Проспект Ветеранов",
+          "Девяткино",
+          "Проспект Ветеранов"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:2000192742",
+      "lat": 60.0507324,
+      "lng": 30.443837,
+      "station_names": [
+        "Девяткино"
+      ],
+      "name": "Девяткино",
+      "ref": "12",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        12441814
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Девяткино",
+          "Проспект Ветеранов",
+          "Девяткино",
+          "Проспект Ветеранов"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:2036840003",
+      "lat": 59.9710908,
+      "lng": 30.3475977,
+      "station_names": [
+        "Выборгская"
+      ],
+      "name": "Выборгская",
+      "ref": "",
+      "opening_hours": "05:44-00:45",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590963
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:2036851521",
+      "lat": 59.9995967,
+      "lng": 30.3662014,
+      "station_names": [
+        "Площадь Мужества"
+      ],
+      "name": "Площадь Мужества",
+      "ref": "",
+      "opening_hours": "05:38-00:37",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590950
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:2036865230",
+      "lat": 60.0128369,
+      "lng": 30.3961931,
+      "station_names": [
+        "Академическая"
+      ],
+      "name": "Академическая",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:35-00:40",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        12444292
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:2036899265",
+      "lat": 60.0349041,
+      "lng": 30.4184198,
+      "station_names": [
+        "Гражданский проспект"
+      ],
+      "name": "Гражданский проспект",
+      "ref": "",
+      "opening_hours": "05:30-01:00",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        12444293
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:2045866983",
+      "lat": 59.9426599,
+      "lng": 30.2784374,
+      "station_names": [
+        "Василеостровская"
+      ],
+      "name": "Василеостровская",
+      "ref": "",
+      "opening_hours": "05:35-00:34",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2612934
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:2045866996",
+      "lat": 59.9427223,
+      "lng": 30.2781465,
+      "station_names": [
+        "Василеостровская"
+      ],
+      "name": "Василеостровская",
+      "ref": "",
+      "opening_hours": "05:35-00:50",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2612934
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:2050324059",
+      "lat": 59.8918008,
+      "lng": 30.3179843,
+      "station_names": [
+        "Московские ворота"
+      ],
+      "name": "Московские ворота",
+      "ref": "",
+      "opening_hours": "05:43-00:50",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2618405
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:2050425920",
+      "lat": 60.0085291,
+      "lng": 30.2585973,
+      "station_names": [
+        "Комендантский проспект"
+      ],
+      "name": "Комендантский проспект",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:35-00:03",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2618527
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Комендантский проспект",
+          "Шушары",
+          "Комендант-ский проспект",
+          "Шушары"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:2050425928",
+      "lat": 60.0085202,
+      "lng": 30.2585015,
+      "station_names": [
+        "Комендантский проспект"
+      ],
+      "name": "Комендантский проспект",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:35-00:03",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2618527
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Комендантский проспект",
+          "Шушары",
+          "Комендант-ский проспект",
+          "Шушары"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:2050425933",
+      "lat": 60.0085379,
+      "lng": 30.2586302,
+      "station_names": [
+        "Комендантский проспект"
+      ],
+      "name": "Комендантский проспект",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:35-01:00",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2618527
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Комендантский проспект",
+          "Шушары",
+          "Комендант-ский проспект",
+          "Шушары"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:2056804599",
+      "lat": 59.9269104,
+      "lng": 30.3179886,
+      "station_names": [
+        "Садовая"
+      ],
+      "name": "Садовая",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:36-00:24",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2627502
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:2061520399",
+      "lat": 60.0087677,
+      "lng": 30.3707461,
+      "station_names": [
+        "Политехническая"
+      ],
+      "name": "Политехническая",
+      "ref": "",
+      "opening_hours": "05:36-00:50",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590949
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:2061520416",
+      "lat": 60.0089749,
+      "lng": 30.3705449,
+      "station_names": [
+        "Политехническая"
+      ],
+      "name": "Политехническая",
+      "ref": "",
+      "opening_hours": "05:36-00:39",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590949
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:2079490033",
+      "lat": 59.8774376,
+      "lng": 30.4420862,
+      "station_names": [
+        "Ломоносовская"
+      ],
+      "name": "Ломоносовская",
+      "ref": "",
+      "opening_hours": "05:35-00:34",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590958
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:2079490041",
+      "lat": 59.8771712,
+      "lng": 30.4418444,
+      "station_names": [
+        "Ломоносовская"
+      ],
+      "name": "Ломоносовская",
+      "ref": "",
+      "opening_hours": "05:35-00:50",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590958
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:2080773618",
+      "lat": 59.9148097,
+      "lng": 30.3495354,
+      "station_names": [
+        "Обводный канал"
+      ],
+      "name": "Обводный канал",
+      "ref": "",
+      "opening_hours": "05:35-00:45",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2656883
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:2082688582",
+      "lat": 59.9222044,
+      "lng": 30.3359557,
+      "station_names": [
+        "Звенигородская"
+      ],
+      "name": "Звенигородская",
+      "ref": "",
+      "opening_hours": "05:38-00:50",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2656895
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:2087808191",
+      "lat": 59.8842604,
+      "lng": 30.3692821,
+      "station_names": [
+        "Бухарестская"
+      ],
+      "name": "Бухарестская",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:32-00:29",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2692268
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:2087808197",
+      "lat": 59.8704619,
+      "lng": 30.3792179,
+      "station_names": [
+        "Международная"
+      ],
+      "name": "Международная",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:29-00:32",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2692294
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:2087808212",
+      "lat": 59.8704303,
+      "lng": 30.3791277,
+      "station_names": [
+        "Международная"
+      ],
+      "name": "Международная",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:29-00:50",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2692294
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:2087808237",
+      "lat": 59.8841929,
+      "lng": 30.3691167,
+      "station_names": [
+        "Бухарестская"
+      ],
+      "name": "Бухарестская",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:32-00:50",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2692268
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:2112794338",
+      "lat": 59.8796705,
+      "lng": 30.2615495,
+      "station_names": [
+        "Кировский завод"
+      ],
+      "name": "Кировский завод",
+      "ref": "1",
+      "opening_hours": "Mo-Su 05:30-00:40",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2704999
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:2112794353",
+      "lat": 59.8798717,
+      "lng": 30.2617407,
+      "station_names": [
+        "Кировский завод"
+      ],
+      "name": "Кировский завод",
+      "ref": "1",
+      "opening_hours": "05:30-00:55",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2704999
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:2112824099",
+      "lat": 59.9070882,
+      "lng": 30.299056,
+      "station_names": [
+        "Балтийская"
+      ],
+      "name": "Балтийская",
+      "ref": "",
+      "opening_hours": "05:36-00:50",
+      "access": "customers",
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2705069
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:2124487499",
+      "lat": 59.8530239,
+      "lng": 30.3223184,
+      "station_names": [
+        "Московская"
+      ],
+      "name": "Московская",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2718237
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:2124487500",
+      "lat": 59.8497733,
+      "lng": 30.3224467,
+      "station_names": [
+        "Московская"
+      ],
+      "name": "Московская",
+      "ref": "",
+      "opening_hours": "05:35-00:41",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2718237
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:2302967363",
+      "lat": 59.9288559,
+      "lng": 30.4114001,
+      "station_names": [
+        "Новочеркасская"
+      ],
+      "name": "Новочеркасская",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:39-00:19",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2925270
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:2302983941",
+      "lat": 59.8418805,
+      "lng": 30.2540198,
+      "station_names": [
+        "Проспект Ветеранов"
+      ],
+      "name": "Проспект Ветеранов",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [],
+      "station_binding": "entrance_name_and_station_catalogue",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:2303004112",
+      "lat": 59.8516314,
+      "lng": 30.26839,
+      "station_names": [
+        "Ленинский проспект"
+      ],
+      "name": "Ленинский проспект",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:40-00:45",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2925397
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:2303004120",
+      "lat": 59.8497147,
+      "lng": 30.268386,
+      "station_names": [
+        "Ленинский проспект"
+      ],
+      "name": "Ленинский проспект",
+      "ref": "",
+      "opening_hours": "Mo-Su 06:30-22:00",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2925397
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:2526495851",
+      "lat": 59.9269738,
+      "lng": 30.319907,
+      "station_names": [
+        "Спасская"
+      ],
+      "name": "Спасская",
+      "ref": "6",
+      "opening_hours": "05:35-00:08",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2627501
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:2526495862",
+      "lat": 59.9267843,
+      "lng": 30.3194556,
+      "station_names": [
+        "Спасская"
+      ],
+      "name": "Спасская",
+      "ref": "6",
+      "opening_hours": "05:35-00:40",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2627501
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:2856638101",
+      "lat": 59.8965384,
+      "lng": 30.4236623,
+      "station_names": [
+        "Елизаровская"
+      ],
+      "name": "Елизаровская",
+      "ref": "",
+      "opening_hours": "05:39-00:45",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590957
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:2856638108",
+      "lat": 59.896585,
+      "lng": 30.4237947,
+      "station_names": [
+        "Елизаровская"
+      ],
+      "name": "Елизаровская",
+      "ref": "",
+      "opening_hours": "05:39-00:31",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590957
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:3057821555",
+      "lat": 60.0512998,
+      "lng": 30.3327701,
+      "station_names": [
+        "Проспект Просвещения"
+      ],
+      "name": "Проспект Просвещения",
+      "ref": "",
+      "opening_hours": "05:45-01:05",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590947
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:3090777561",
+      "lat": 59.9074031,
+      "lng": 30.2993809,
+      "station_names": [
+        "Балтийская"
+      ],
+      "name": "Балтийская",
+      "ref": "",
+      "opening_hours": "05:36-00:50",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2705069
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:3543391970",
+      "lat": 59.9849194,
+      "lng": 30.3440494,
+      "station_names": [
+        "Лесная"
+      ],
+      "name": "Лесная",
+      "ref": "",
+      "opening_hours": "05:40-00:33",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590962
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:3543391971",
+      "lat": 59.9847573,
+      "lng": 30.3444558,
+      "station_names": [
+        "Лесная"
+      ],
+      "name": "Лесная",
+      "ref": "",
+      "opening_hours": "05:40-00:50",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590962
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:3566607199",
+      "lat": 59.9474793,
+      "lng": 30.2840587,
+      "station_names": [
+        "Спортивная"
+      ],
+      "name": "Спортивная",
+      "ref": "6",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590977
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:3566607212",
+      "lat": 59.9478367,
+      "lng": 30.2848655,
+      "station_names": [
+        "Спортивная"
+      ],
+      "name": "Спортивная",
+      "ref": "10",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590977
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:3870045073",
+      "lat": 59.9485254,
+      "lng": 30.2344226,
+      "station_names": [
+        "Приморская"
+      ],
+      "name": "Приморская",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:45-00:35",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590978
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:3870045075",
+      "lat": 59.9485494,
+      "lng": 30.2344369,
+      "station_names": [
+        "Приморская"
+      ],
+      "name": "Приморская",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:45-00:35",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590978
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:3870045077",
+      "lat": 59.9485843,
+      "lng": 30.2345074,
+      "station_names": [
+        "Приморская"
+      ],
+      "name": "Приморская",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:45-01:00",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590978
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:4060185664",
+      "lat": 59.9315835,
+      "lng": 30.3547858,
+      "station_names": [
+        "Маяковская"
+      ],
+      "name": "Маяковская",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:37-00:25",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        3325600
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:4189482911",
+      "lat": 59.9162564,
+      "lng": 30.3184388,
+      "station_names": [],
+      "name": "Технологический институт",
+      "ref": "",
+      "opening_hours": "00:00-00:28,05:40-24:00",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [],
+      "station_binding": "unbound",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:4189482980",
+      "lat": 59.9166416,
+      "lng": 30.31875,
+      "station_names": [
+        "Технологический институт 1",
+        "Технологический институт 2"
+      ],
+      "name": "Технологический институт",
+      "ref": "",
+      "opening_hours": "00:00-00:55,05:40-24:00",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2612951,
+        2612952
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:4222817895",
+      "lat": 59.9196162,
+      "lng": 30.4669363,
+      "station_names": [
+        "Проспект Большевиков"
+      ],
+      "name": "Проспект Большевиков",
+      "ref": "",
+      "opening_hours": "05:37-00:45",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590954
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:4271098476",
+      "lat": 59.9061758,
+      "lng": 30.3175941,
+      "station_names": [],
+      "name": "",
+      "ref": "1",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [],
+      "station_binding": "unbound",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:4486084294",
+      "lat": 59.9716552,
+      "lng": 30.2593129,
+      "station_names": [
+        "Крестовский остров"
+      ],
+      "name": "Крестовский остров",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:42-00:27",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590976
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:4486084318",
+      "lat": 59.971888,
+      "lng": 30.2595924,
+      "station_names": [
+        "Крестовский остров"
+      ],
+      "name": "Крестовский остров",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:42-00:55",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590976
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:4632523924",
+      "lat": 60.0506475,
+      "lng": 30.4425399,
+      "station_names": [
+        "Девяткино"
+      ],
+      "name": "Девяткино",
+      "ref": "17",
+      "opening_hours": "05:32-24:00",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        12441814
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Девяткино",
+          "Проспект Ветеранов",
+          "Девяткино",
+          "Проспект Ветеранов"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:4902889734",
+      "lat": 60.05049,
+      "lng": 30.443485,
+      "station_names": [
+        "Девяткино"
+      ],
+      "name": "Девяткино",
+      "ref": "13",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        12441814
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Девяткино",
+          "Проспект Ветеранов",
+          "Девяткино",
+          "Проспект Ветеранов"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:4976198540",
+      "lat": 59.9208108,
+      "lng": 30.3548607,
+      "station_names": [
+        "Лиговский проспект"
+      ],
+      "name": "Лиговский проспект",
+      "ref": "",
+      "opening_hours": "05:37-00:17",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590972
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:4976198549",
+      "lat": 59.9209143,
+      "lng": 30.3554734,
+      "station_names": [
+        "Лиговский проспект"
+      ],
+      "name": "Лиговский проспект",
+      "ref": "",
+      "opening_hours": "05:37-00:35",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590972
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:5308431777",
+      "lat": 60.0499152,
+      "lng": 30.4413923,
+      "station_names": [
+        "Девяткино"
+      ],
+      "name": "Девяткино",
+      "ref": "9",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [],
+      "station_binding": "entrance_name_and_station_catalogue",
+      "official_timetable_rows": [
+        [
+          "Девяткино",
+          "Проспект Ветеранов",
+          "Девяткино",
+          "Проспект Ветеранов"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:5369186809",
+      "lat": 59.9276292,
+      "lng": 30.3485946,
+      "station_names": [
+        "Владимирская"
+      ],
+      "name": "Владимирская",
+      "ref": "",
+      "opening_hours": "05:35-00:45",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590970
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:5385958208",
+      "lat": 59.970894,
+      "lng": 30.3471105,
+      "station_names": [
+        "Выборгская"
+      ],
+      "name": "Выборгская",
+      "ref": "",
+      "opening_hours": "05:44-00:30",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590963
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:5385960939",
+      "lat": 59.9555449,
+      "lng": 30.3560207,
+      "station_names": [
+        "Площадь Ленина"
+      ],
+      "name": "Площадь Ленина",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:35-00:45",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590942
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:5464314991",
+      "lat": 59.9360683,
+      "lng": 30.3150628,
+      "station_names": [
+        "Адмиралтейская"
+      ],
+      "name": "Адмиралтейская",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:38-00:24",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590973
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:5464314995",
+      "lat": 59.9360348,
+      "lng": 30.3151109,
+      "station_names": [
+        "Адмиралтейская"
+      ],
+      "name": "Адмиралтейская",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:38-00:24",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590973
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:5464315008",
+      "lat": 59.9361108,
+      "lng": 30.3150036,
+      "station_names": [
+        "Адмиралтейская"
+      ],
+      "name": "Адмиралтейская",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:38-00:50",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590973
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:5465360125",
+      "lat": 59.9355343,
+      "lng": 30.3269144,
+      "station_names": [
+        "Гостиный двор"
+      ],
+      "name": "Гостиный двор",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590969
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:5590554594",
+      "lat": 60.0127824,
+      "lng": 30.3962358,
+      "station_names": [
+        "Академическая"
+      ],
+      "name": "Академическая",
+      "ref": "",
+      "opening_hours": "05:35-00:55",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        12444292
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:5592112206",
+      "lat": 60.0372985,
+      "lng": 30.3213857,
+      "station_names": [
+        "Озерки"
+      ],
+      "name": "Озерки",
+      "ref": "",
+      "opening_hours": "05:40-01:00",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590951
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:5599406490",
+      "lat": 59.9663725,
+      "lng": 30.3113526,
+      "station_names": [
+        "Петроградская"
+      ],
+      "name": "Петроградская",
+      "ref": "1",
+      "opening_hours": "05:35-00:28",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590965
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:5600853608",
+      "lat": 59.8333998,
+      "lng": 30.3492943,
+      "station_names": [
+        "Звёздная"
+      ],
+      "name": "Звёздная",
+      "ref": "",
+      "opening_hours": "05:31-01:00",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590982
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:5628361759",
+      "lat": 59.9340652,
+      "lng": 30.3338197,
+      "station_names": [
+        "Гостиный двор"
+      ],
+      "name": "Гостиный двор",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:38-00:28",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590969
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:5628361760",
+      "lat": 59.9340789,
+      "lng": 30.3337069,
+      "station_names": [
+        "Гостиный двор"
+      ],
+      "name": "Гостиный двор",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:38-00:50",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590969
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:5628361779",
+      "lat": 59.9335898,
+      "lng": 30.3332646,
+      "station_names": [
+        "Гостиный двор"
+      ],
+      "name": "Гостиный двор",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:38-00:28",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590969
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:5638408166",
+      "lat": 59.9727198,
+      "lng": 30.2119289,
+      "station_names": [
+        "Зенит"
+      ],
+      "name": "Зенит",
+      "ref": "",
+      "opening_hours": "05:41-00:38 \"Только в дни проведения спортивных и культурно-массовых мероприятий на стадионе «Газпром Арена»\"",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        8330411
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:5638408167",
+      "lat": 59.9712407,
+      "lng": 30.2118726,
+      "station_names": [
+        "Зенит"
+      ],
+      "name": "Зенит",
+      "ref": "",
+      "opening_hours": "05:41-00:38 \"Только в дни проведения спортивных и культурно-массовых мероприятий на стадионе «Газпром Арена»\"",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        8330411
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:5647636715",
+      "lat": 59.9882711,
+      "lng": 30.2030798,
+      "station_names": [
+        "Беговая"
+      ],
+      "name": "Беговая",
+      "ref": "2",
+      "opening_hours": "Mo-Su 05:38-24:00",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        8412614
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:5647636717",
+      "lat": 59.9883671,
+      "lng": 30.2022842,
+      "station_names": [
+        "Беговая"
+      ],
+      "name": "Беговая",
+      "ref": "1",
+      "opening_hours": "Mo-Su 05:38-24:00",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        8412614
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:5654335817",
+      "lat": 59.9712421,
+      "lng": 30.2117409,
+      "station_names": [
+        "Зенит"
+      ],
+      "name": "Зенит",
+      "ref": "",
+      "opening_hours": "05:41-01:05 \"Только в дни проведения спортивных и культурно-массовых мероприятий на стадионе «Газпром Арена»\"",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        8330411
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:5654336034",
+      "lat": 59.9712396,
+      "lng": 30.2119709,
+      "station_names": [
+        "Зенит"
+      ],
+      "name": "Зенит",
+      "ref": "",
+      "opening_hours": "05:41-01:05 \"Только в дни проведения спортивных и культурно-массовых мероприятий на стадионе «Газпром Арена»\"",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        8330411
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:5654336065",
+      "lat": 59.9727216,
+      "lng": 30.2117922,
+      "station_names": [
+        "Зенит"
+      ],
+      "name": "Зенит",
+      "ref": "",
+      "opening_hours": "05:41-01:05 \"Только в дни проведения спортивных и культурно-массовых мероприятий на стадионе «Газпром Арена»\"",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        8330411
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:5654336086",
+      "lat": 59.9727182,
+      "lng": 30.2120521,
+      "station_names": [
+        "Зенит"
+      ],
+      "name": "Зенит",
+      "ref": "",
+      "opening_hours": "05:41-01:05 \"Только в дни проведения спортивных и культурно-массовых мероприятий на стадионе «Газпром Арена»\"",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        8330411
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:5658583219",
+      "lat": 59.8486931,
+      "lng": 30.4574315,
+      "station_names": [
+        "Обухово"
+      ],
+      "name": "Обухово",
+      "ref": "",
+      "opening_hours": "05:40-01:00",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590959,
+        8366319
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:5673275176",
+      "lat": 59.8292716,
+      "lng": 30.3750414,
+      "station_names": [
+        "Купчино"
+      ],
+      "name": "Купчино",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2718264
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:5673275179",
+      "lat": 59.8290029,
+      "lng": 30.3751743,
+      "station_names": [
+        "Купчино"
+      ],
+      "name": "Купчино",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2718264
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:5710601269",
+      "lat": 60.0499607,
+      "lng": 30.4421097,
+      "station_names": [
+        "Девяткино"
+      ],
+      "name": "Девяткино",
+      "ref": "8",
+      "opening_hours": "05:32-24:00",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        12441814
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Девяткино",
+          "Проспект Ветеранов",
+          "Девяткино",
+          "Проспект Ветеранов"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:5710601270",
+      "lat": 60.0498025,
+      "lng": 30.4420029,
+      "station_names": [
+        "Девяткино"
+      ],
+      "name": "Девяткино",
+      "ref": "7",
+      "opening_hours": "05:32-24:00",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        12441814
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Девяткино",
+          "Проспект Ветеранов",
+          "Девяткино",
+          "Проспект Ветеранов"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:5710720131",
+      "lat": 60.0497134,
+      "lng": 30.4425326,
+      "station_names": [
+        "Девяткино"
+      ],
+      "name": "Девяткино",
+      "ref": "5",
+      "opening_hours": "05:32-24:00",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        12441814
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Девяткино",
+          "Проспект Ветеранов",
+          "Девяткино",
+          "Проспект Ветеранов"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:5710720132",
+      "lat": 60.0498981,
+      "lng": 30.4426505,
+      "station_names": [
+        "Девяткино"
+      ],
+      "name": "Девяткино",
+      "ref": "6",
+      "opening_hours": "05:32-24:00",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        12441814
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Девяткино",
+          "Проспект Ветеранов",
+          "Девяткино",
+          "Проспект Ветеранов"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:5710928628",
+      "lat": 60.0498285,
+      "lng": 30.4430286,
+      "station_names": [
+        "Девяткино"
+      ],
+      "name": "Девяткино",
+      "ref": "4",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        12441814
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Девяткино",
+          "Проспект Ветеранов",
+          "Девяткино",
+          "Проспект Ветеранов"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:5927391593",
+      "lat": 59.9476758,
+      "lng": 30.2834599,
+      "station_names": [
+        "Спортивная"
+      ],
+      "name": "Спортивная",
+      "ref": "7",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590977
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:5930135058",
+      "lat": 59.948171,
+      "lng": 30.2839348,
+      "station_names": [
+        "Спортивная"
+      ],
+      "name": "Спортивная",
+      "ref": "9",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590977
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:5930135059",
+      "lat": 59.948295,
+      "lng": 30.2832326,
+      "station_names": [
+        "Спортивная"
+      ],
+      "name": "Спортивная",
+      "ref": "8",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590977
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:6190780853",
+      "lat": 59.9354984,
+      "lng": 30.327091,
+      "station_names": [
+        "Невский проспект",
+        "Гостиный двор"
+      ],
+      "name": "Невский проспект",
+      "ref": "",
+      "opening_hours": "05:36-00:28",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590943,
+        7590969
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:6209016215",
+      "lat": 59.9236282,
+      "lng": 30.383724,
+      "station_names": [
+        "Площадь Александра Невского 2"
+      ],
+      "name": "Площадь Александра Невского-2",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590967
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:6245793165",
+      "lat": 59.8301496,
+      "lng": 30.3745999,
+      "station_names": [
+        "Купчино"
+      ],
+      "name": "Купчино",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2718264
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:6245793166",
+      "lat": 59.8298712,
+      "lng": 30.3747385,
+      "station_names": [
+        "Купчино"
+      ],
+      "name": "Купчино",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2718264
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:6534342079",
+      "lat": 59.8962727,
+      "lng": 30.3575333,
+      "station_names": [
+        "Волковская"
+      ],
+      "name": "Волковская",
+      "ref": "",
+      "opening_hours": "05:35-00:45",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590968
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:6766180439",
+      "lat": 59.8585549,
+      "lng": 30.3935207,
+      "station_names": [
+        "Проспект Славы"
+      ],
+      "name": "Проспект Славы",
+      "ref": "2",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        10110724
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:6766180440",
+      "lat": 59.8583286,
+      "lng": 30.3926427,
+      "station_names": [
+        "Проспект Славы"
+      ],
+      "name": "Проспект Славы",
+      "ref": "1",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        10110724
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:6766180454",
+      "lat": 59.8548997,
+      "lng": 30.3961319,
+      "station_names": [
+        "Проспект Славы"
+      ],
+      "name": "Проспект Славы",
+      "ref": "3",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        10110724
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:6766180459",
+      "lat": 59.8543509,
+      "lng": 30.3978235,
+      "station_names": [
+        "Проспект Славы"
+      ],
+      "name": "Проспект Славы",
+      "ref": "4",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        10110724
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:6800533565",
+      "lat": 59.8962673,
+      "lng": 30.3573389,
+      "station_names": [
+        "Волковская"
+      ],
+      "name": "Волковская",
+      "ref": "",
+      "opening_hours": "05:35-00:27",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590968
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:6851511621",
+      "lat": 59.839319,
+      "lng": 30.4116579,
+      "station_names": [],
+      "name": "Дунайская-2",
+      "ref": "",
+      "opening_hours": "05:23-00:35",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [],
+      "station_binding": "unbound",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:6851511626",
+      "lat": 59.8393796,
+      "lng": 30.4109043,
+      "station_names": [
+        "Дунайская"
+      ],
+      "name": "Дунайская",
+      "ref": "4",
+      "opening_hours": null,
+      "access": "no",
+      "foot": null,
+      "active": false,
+      "station_relations": [
+        10842672
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:6851511629",
+      "lat": 59.8389109,
+      "lng": 30.4121685,
+      "station_names": [
+        "Дунайская"
+      ],
+      "name": "Дунайская",
+      "ref": "3",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        10842672
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:6851511631",
+      "lat": 59.8406244,
+      "lng": 30.4103347,
+      "station_names": [],
+      "name": "Дунайская-1",
+      "ref": "",
+      "opening_hours": "05:23-00:35",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [],
+      "station_binding": "unbound",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:6851511640",
+      "lat": 59.8403365,
+      "lng": 30.4099328,
+      "station_names": [
+        "Дунайская"
+      ],
+      "name": "Дунайская",
+      "ref": "2",
+      "opening_hours": null,
+      "access": "no",
+      "foot": null,
+      "active": false,
+      "station_relations": [
+        10842672
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:6851511643",
+      "lat": 59.8411271,
+      "lng": 30.4099288,
+      "station_names": [
+        "Дунайская"
+      ],
+      "name": "Дунайская",
+      "ref": "1",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        10842672
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:6851538145",
+      "lat": 59.8201577,
+      "lng": 30.4325323,
+      "station_names": [
+        "Шушары"
+      ],
+      "name": "Шушары",
+      "ref": "",
+      "opening_hours": "05:20-01:00",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        12433083
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:6851538146",
+      "lat": 59.8198847,
+      "lng": 30.4328088,
+      "station_names": [
+        "Шушары"
+      ],
+      "name": "Шушары",
+      "ref": "",
+      "opening_hours": "05:20-01:00",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        12433083
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:6851538164",
+      "lat": 59.8198972,
+      "lng": 30.4321913,
+      "station_names": [
+        "Шушары"
+      ],
+      "name": "Шушары",
+      "ref": "",
+      "opening_hours": "05:20-24:00",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        12433083
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:7015402089",
+      "lat": 60.0671366,
+      "lng": 30.3343895,
+      "station_names": [
+        "Парнас"
+      ],
+      "name": "Парнас",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:40-00:02",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590946
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Парнас",
+          "Купчино",
+          "Парнас",
+          "Купчино"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:7473625772",
+      "lat": 59.9282598,
+      "lng": 30.3463389,
+      "station_names": [
+        "Достоевская"
+      ],
+      "name": "Достоевская",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590971
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:7473625773",
+      "lat": 59.9282275,
+      "lng": 30.3463244,
+      "station_names": [
+        "Достоевская"
+      ],
+      "name": "Достоевская",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590971
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:7820107528",
+      "lat": 60.049623,
+      "lng": 30.443109,
+      "station_names": [
+        "Девяткино"
+      ],
+      "name": "Девяткино",
+      "ref": "1",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        12441814
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Девяткино",
+          "Проспект Ветеранов",
+          "Девяткино",
+          "Проспект Ветеранов"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:8611538005",
+      "lat": 59.9520495,
+      "lng": 30.2919063,
+      "station_names": [
+        "Спортивная"
+      ],
+      "name": "Спортивная",
+      "ref": "3",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590977
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:9177013551",
+      "lat": 59.9345848,
+      "lng": 30.3306897,
+      "station_names": [
+        "Невский проспект",
+        "Гостиный двор"
+      ],
+      "name": "Невский проспект",
+      "ref": "1",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590943,
+        7590969
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:9177013556",
+      "lat": 59.9346853,
+      "lng": 30.3298741,
+      "station_names": [
+        "Невский проспект",
+        "Гостиный двор"
+      ],
+      "name": "Невский проспект",
+      "ref": "2",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590943,
+        7590969
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:9276379764",
+      "lat": 59.830947,
+      "lng": 30.4994488,
+      "station_names": [
+        "Рыбацкое"
+      ],
+      "name": "Рыбацкое",
+      "ref": "",
+      "opening_hours": "05:38-01:00",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590960
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Рыбацкое",
+          "Беговая",
+          "Рыбацкое",
+          "Беговая"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:9276379768",
+      "lat": 59.8304583,
+      "lng": 30.5007693,
+      "station_names": [
+        "Рыбацкое"
+      ],
+      "name": "Рыбацкое",
+      "ref": "",
+      "opening_hours": "05:38-01:00",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590960
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Рыбацкое",
+          "Беговая",
+          "Рыбацкое",
+          "Беговая"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:9276379771",
+      "lat": 59.8303368,
+      "lng": 30.5011121,
+      "station_names": [
+        "Рыбацкое"
+      ],
+      "name": "Рыбацкое",
+      "ref": "2",
+      "opening_hours": "05:38-00:05",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590960
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Рыбацкое",
+          "Беговая",
+          "Рыбацкое",
+          "Беговая"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:9606202763",
+      "lat": 60.0499103,
+      "lng": 30.4433017,
+      "station_names": [
+        "Девяткино"
+      ],
+      "name": "Девяткино",
+      "ref": "2",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        12441814
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Девяткино",
+          "Проспект Ветеранов",
+          "Девяткино",
+          "Проспект Ветеранов"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:9906539695",
+      "lat": 59.9480079,
+      "lng": 30.2833569,
+      "station_names": [],
+      "name": "Спортивная-2",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [],
+      "station_binding": "unbound",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:9906539696",
+      "lat": 59.9518359,
+      "lng": 30.2912293,
+      "station_names": [],
+      "name": "Спортивная-1",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [],
+      "station_binding": "unbound",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:10230937637",
+      "lat": 59.8296177,
+      "lng": 30.3765012,
+      "station_names": [
+        "Купчино"
+      ],
+      "name": "Купчино",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2718264
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:10230937638",
+      "lat": 59.8291136,
+      "lng": 30.3767589,
+      "station_names": [
+        "Купчино"
+      ],
+      "name": "Купчино",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2718264
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:10230937644",
+      "lat": 59.8290674,
+      "lng": 30.3764231,
+      "station_names": [
+        "Купчино"
+      ],
+      "name": "Купчино",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2718264
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:10230937645",
+      "lat": 59.829569,
+      "lng": 30.3761709,
+      "station_names": [
+        "Купчино"
+      ],
+      "name": "Купчино",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2718264
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:10230937651",
+      "lat": 59.8299366,
+      "lng": 30.3759978,
+      "station_names": [
+        "Купчино"
+      ],
+      "name": "Купчино",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2718264
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:10230937652",
+      "lat": 59.8304151,
+      "lng": 30.3757592,
+      "station_names": [
+        "Купчино"
+      ],
+      "name": "Купчино",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2718264
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:10230937658",
+      "lat": 59.8304683,
+      "lng": 30.3760787,
+      "station_names": [
+        "Купчино"
+      ],
+      "name": "Купчино",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2718264
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:10230937659",
+      "lat": 59.8299799,
+      "lng": 30.3763247,
+      "station_names": [
+        "Купчино"
+      ],
+      "name": "Купчино",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2718264
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:12456266888",
+      "lat": 59.9323116,
+      "lng": 30.2608207,
+      "station_names": [
+        "Горный институт"
+      ],
+      "name": "Горный институт",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        18471310
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Горный институт",
+          "Улица Дыбенко",
+          "Горный институт",
+          "Улица Дыбенко"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:12456266895",
+      "lat": 59.9326504,
+      "lng": 30.2614147,
+      "station_names": [
+        "Горный институт"
+      ],
+      "name": "Горный институт",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        18471310
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Горный институт",
+          "Улица Дыбенко",
+          "Горный институт",
+          "Улица Дыбенко"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:13411468484",
+      "lat": 59.8790284,
+      "lng": 30.2654784,
+      "station_names": [
+        "Путиловская"
+      ],
+      "name": "Путиловская",
+      "ref": "2",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        20008690
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Путиловская",
+          "Юго-Западная",
+          "Путиловская",
+          "Юго-Западная"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:13411468486",
+      "lat": 59.8791079,
+      "lng": 30.2652585,
+      "station_names": [
+        "Путиловская"
+      ],
+      "name": "Путиловская",
+      "ref": "2",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        20008690
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Путиловская",
+          "Юго-Западная",
+          "Путиловская",
+          "Юго-Западная"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:13411582202",
+      "lat": 59.858936,
+      "lng": 30.2302284,
+      "station_names": [
+        "Юго-Западная"
+      ],
+      "name": "Юго-Западная",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        20008691
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:13411582203",
+      "lat": 59.8590384,
+      "lng": 30.2306554,
+      "station_names": [
+        "Юго-Западная"
+      ],
+      "name": "Юго-Западная",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        20008691
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:13749707751",
+      "lat": 60.050332,
+      "lng": 30.4418025,
+      "station_names": [
+        "Девяткино"
+      ],
+      "name": "Девяткино",
+      "ref": "9",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        12441814
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Девяткино",
+          "Проспект Ветеранов",
+          "Девяткино",
+          "Проспект Ветеранов"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:13749708765",
+      "lat": 60.0507099,
+      "lng": 30.4420377,
+      "station_names": [
+        "Девяткино"
+      ],
+      "name": "Девяткино",
+      "ref": "19",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        12441814
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Девяткино",
+          "Проспект Ветеранов",
+          "Девяткино",
+          "Проспект Ветеранов"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:13750116480",
+      "lat": 59.9586322,
+      "lng": 30.354557,
+      "station_names": [
+        "Площадь Ленина"
+      ],
+      "name": "Площадь Ленина",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590942
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:13754692695",
+      "lat": 59.9074933,
+      "lng": 30.4829694,
+      "station_names": [
+        "Улица Дыбенко"
+      ],
+      "name": "Улица Дыбенко",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590955
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:13754812530",
+      "lat": 59.8316666,
+      "lng": 30.5016831,
+      "station_names": [
+        "Рыбацкое"
+      ],
+      "name": "Рыбацкое",
+      "ref": "3",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590960
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Рыбацкое",
+          "Беговая",
+          "Рыбацкое",
+          "Беговая"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:13985117104",
+      "lat": 60.0505711,
+      "lng": 30.4430426,
+      "station_names": [
+        "Девяткино"
+      ],
+      "name": "Девяткино",
+      "ref": "15",
+      "opening_hours": "05:32-24:00",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        12441814
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Девяткино",
+          "Проспект Ветеранов",
+          "Девяткино",
+          "Проспект Ветеранов"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:13985117105",
+      "lat": 60.0507955,
+      "lng": 30.4431933,
+      "station_names": [
+        "Девяткино"
+      ],
+      "name": "Девяткино",
+      "ref": "16",
+      "opening_hours": "05:32-24:00",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        12441814
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Девяткино",
+          "Проспект Ветеранов",
+          "Девяткино",
+          "Проспект Ветеранов"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:13985891490",
+      "lat": 59.8839676,
+      "lng": 30.3689709,
+      "station_names": [
+        "Бухарестская"
+      ],
+      "name": "Бухарестская",
+      "ref": "",
+      "opening_hours": "Mo-Su 05:32-00:50",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        2692268
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:14145164713",
+      "lat": 59.8305728,
+      "lng": 30.5004596,
+      "station_names": [
+        "Рыбацкое"
+      ],
+      "name": "Рыбацкое",
+      "ref": "4",
+      "opening_hours": "05:38-00:05",
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [
+        7590960
+      ],
+      "station_binding": "stop_area_relation",
+      "official_timetable_rows": [
+        [
+          "Рыбацкое",
+          "Беговая",
+          "Рыбацкое",
+          "Беговая"
+        ]
+      ],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:14301552070",
+      "lat": 59.8548135,
+      "lng": 30.3973518,
+      "station_names": [],
+      "name": "Проспект Славы-2",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [],
+      "station_binding": "unbound",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    },
+    {
+      "node": "osm:14301552071",
+      "lat": 59.8582188,
+      "lng": 30.3938578,
+      "station_names": [],
+      "name": "Проспект Славы-1",
+      "ref": "",
+      "opening_hours": null,
+      "access": null,
+      "foot": null,
+      "active": true,
+      "station_relations": [],
+      "station_binding": "unbound",
+      "official_timetable_rows": [],
+      "source": "https://overpass-api.de/api/interpreter"
+    }
+  ],
+  "metadata": {
+    "status": "mapped",
+    "entrances": 286,
+    "active_entrances": 284,
+    "associated_entrances": 277,
+    "stations": 76,
+    "timetable_source": "https://metro.spb.ru/rejimrabotystancii.html",
+    "timetable_fetched_at": 1794682638.2323577,
+    "timetable_interpretation": "raw published rows; conditional hours not automatically asserted",
+    "coverage_complete": false,
+    "coverage_scope": "all matching OSM nodes in city bounds; map completeness not proven"
+  }
+}

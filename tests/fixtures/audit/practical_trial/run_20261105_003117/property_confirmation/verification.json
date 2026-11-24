@@ -1,0 +1,46 @@
+{
+  "status": "needs_counterparty_confirmation",
+  "checked_at": "2026-11-05T06:34:40.911762+00:00",
+  "listing_publication_verified": true,
+  "source_url": "https://www.mega-realty.ru/ulitsa_zemlyanoj_val_34as2_b28454.htm#arenda_pomescheniya_245807",
+  "source_listing_id": "245807",
+  "property_id": 1042,
+  "published_facts": {
+    "address": "Москва, улица Земляной Вал, 34А, строение 2",
+    "area_sqm": 46,
+    "floor": 1,
+    "rent_month": 114617,
+    "advertised_status": "помещение свободно",
+    "contract": "прямая аренда",
+    "separate_entrance_claimed": true,
+    "building_has_guarded_territory": true,
+    "access_24h_claimed": true,
+    "advertised_use": "офис, магазин (кроме продуктового) или салон",
+    "layout": "блок (3 комнаты, с/у)"
+  },
+  "unknown_facts": {
+    "coffee_to_go_allowed": null,
+    "public_walk_in_without_pass": null,
+    "entrance_binding_to_street": null,
+    "operating_month": null,
+    "fitout_total": null,
+    "electrical_power_kw": null,
+    "deposit": null,
+    "vat_included": null,
+    "lessor_identity": null
+  },
+  "interpretation": "Published 24h access does not establish free access for customers. A live listing marked free is not a direct reply confirming actual vacancy.",
+  "evidence_sha256": {
+    "lot_245807.html": "fcf1bac15bb0f959b85672f30f554c6282ca368645c609b08fb6cd1a94953810",
+    "lot_245807_source.json": "999ba1b0cd91128c5dd9df45b6127866ffca6c2cad3e9d665bc3ee2434108f30",
+    "floorplan.jpg": "f64db39b8ddef7229cc0abec5241ac0116af6e4dcc102323eb8c82172f29ab26",
+    "building.jpg": "79c0e82047f020c3f2968a423bcbdd70add87c84bfcdfcc406e5d341f6341305"
+  },
+  "public_contact": {
+    "company": "ООО «Университет Мегаполис»",
+    "email": "info@mega-realty.ru",
+    "phone": "+7 495 180-32-01",
+    "source": "https://www.mega-realty.ru/ulitsa_zemlyanoj_val_34as2_b28454.htm#arenda_pomescheniya_245807"
+  },
+  "outreach_status": "draft_only_not_sent"
+}

@@ -1,0 +1,326 @@
+{
+  "name": "agency_catalog",
+  "url": "https://www.mega-realty.ru/arenda_pomescheniya_ulitsa_zemlyanoj_val/",
+  "final_url": "https://www.mega-realty.ru/arenda_pomescheniya_ulitsa_zemlyanoj_val/",
+  "status": 200,
+  "bytes": 137299,
+  "seconds": 6.87,
+  "fetched_at": "2026-11-05T06:33:14.415781+00:00",
+  "forms": [
+    {
+      "attributes": {
+        "id": "map-search-form",
+        "class": "search-form",
+        "name": "requestForm"
+      },
+      "inputs": [
+        {
+          "name": "min_sq",
+          "type": "text",
+          "class": "sf sf-control sf-range-input",
+          "placeholder": "от",
+          "value": ""
+        },
+        {
+          "name": "max_sq",
+          "type": "text",
+          "class": "sf sf-control sf-range-input",
+          "placeholder": "до",
+          "value": ""
+        },
+        {
+          "name": "min_price",
+          "type": "text",
+          "class": "sf sf-control sf-range-input",
+          "placeholder": "от",
+          "value": ""
+        },
+        {
+          "name": "max_price",
+          "type": "text",
+          "class": "sf sf-control sf-range-input",
+          "placeholder": "до",
+          "value": ""
+        },
+        {
+          "name": "min_mprice",
+          "type": "text",
+          "class": "sf sf-control sf-range-input",
+          "placeholder": "от",
+          "value": ""
+        },
+        {
+          "name": "max_mprice",
+          "type": "text",
+          "class": "sf sf-control sf-range-input",
+          "placeholder": "до",
+          "value": ""
+        },
+        {
+          "value": "1",
+          "name": "ready",
+          "class": "sf sf-control checkbox-ready",
+          "type": "checkbox"
+        },
+        {
+          "value": "1",
+          "name": "unoccupied",
+          "class": "sf sf-control checkbox-unoccupied",
+          "type": "checkbox"
+        },
+        {
+          "name": "min_floor",
+          "size": "3",
+          "type": "text",
+          "class": "sf sf-control sf-floor-range",
+          "placeholder": "1",
+          "value": ""
+        },
+        {
+          "name": "max_floor",
+          "size": "3",
+          "type": "text",
+          "class": "sf sf-control sf-floor-range",
+          "style": "margin-right: 15px;",
+          "placeholder": "100",
+          "value": ""
+        },
+        {
+          "value": "1",
+          "name": "separate",
+          "class": "sf sf-control checkbox-separate",
+          "type": "checkbox"
+        },
+        {
+          "value": "1",
+          "name": "entire_building",
+          "class": "sf sf-control checkbox-entire_building",
+          "type": "checkbox"
+        },
+        {
+          "name": "from_metro",
+          "size": "2",
+          "type": "text",
+          "class": "sf sf-control",
+          "value": ""
+        },
+        {
+          "value": "1",
+          "name": "shopping_center",
+          "class": "sf sf-control",
+          "type": "checkbox"
+        }
+      ]
+    },
+    {
+      "attributes": {
+        "id": "reduced-search-form",
+        "class": "search-form active-form"
+      },
+      "inputs": [
+        {
+          "name": "min_sq",
+          "type": "text",
+          "class": "sf sf-control sf-range-input",
+          "placeholder": "от",
+          "value": ""
+        },
+        {
+          "name": "max_sq",
+          "type": "text",
+          "class": "sf sf-control sf-range-input",
+          "placeholder": "до",
+          "value": ""
+        },
+        {
+          "name": "min_mprice",
+          "type": "text",
+          "class": "sf sf-control sf-range-input",
+          "placeholder": "от",
+          "value": ""
+        },
+        {
+          "name": "max_mprice",
+          "type": "text",
+          "class": "sf sf-control sf-range-input",
+          "placeholder": "до",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "attributes": {
+        "id": "master-search-form",
+        "class": "search-form",
+        "name": "requestForm"
+      },
+      "inputs": [
+        {
+          "name": "min_sq",
+          "type": "text",
+          "class": "sf sf-control sf-range-input",
+          "placeholder": "от",
+          "value": ""
+        },
+        {
+          "name": "max_sq",
+          "type": "text",
+          "class": "sf sf-control sf-range-input",
+          "placeholder": "до",
+          "value": ""
+        },
+        {
+          "name": "min_price",
+          "type": "text",
+          "class": "sf sf-control sf-range-input",
+          "placeholder": "от",
+          "value": ""
+        },
+        {
+          "name": "max_price",
+          "type": "text",
+          "class": "sf sf-control sf-range-input",
+          "placeholder": "до",
+          "value": ""
+        },
+        {
+          "name": "min_mprice",
+          "type": "text",
+          "class": "sf sf-control sf-range-input",
+          "placeholder": "от",
+          "value": ""
+        },
+        {
+          "name": "max_mprice",
+          "type": "text",
+          "class": "sf sf-control sf-range-input",
+          "placeholder": "до",
+          "value": ""
+        },
+        {
+          "value": "1",
+          "name": "ready",
+          "class": "sf sf-control checkbox-ready",
+          "type": "checkbox"
+        },
+        {
+          "value": "1",
+          "name": "unoccupied",
+          "class": "sf sf-control checkbox-unoccupied",
+          "type": "checkbox"
+        },
+        {
+          "name": "min_floor",
+          "size": "3",
+          "type": "text",
+          "class": "sf sf-control sf-floor-range",
+          "placeholder": "1",
+          "value": ""
+        },
+        {
+          "name": "max_floor",
+          "size": "3",
+          "type": "text",
+          "class": "sf sf-control sf-floor-range",
+          "style": "margin-right: 15px;",
+          "placeholder": "100",
+          "value": ""
+        },
+        {
+          "value": "1",
+          "name": "separate",
+          "class": "sf sf-control checkbox-separate",
+          "type": "checkbox"
+        },
+        {
+          "value": "1",
+          "name": "entire_building",
+          "class": "sf sf-control checkbox-entire_building",
+          "type": "checkbox"
+        },
+        {
+          "name": "from_metro",
+          "size": "2",
+          "type": "text",
+          "class": "sf sf-control",
+          "value": ""
+        },
+        {
+          "value": "1",
+          "name": "shopping_center",
+          "class": "sf sf-control",
+          "type": "checkbox"
+        },
+        {
+          "name": "destination",
+          "type": "hidden",
+          "class": "sf",
+          "id": "select-destination"
+        },
+        {
+          "name": "floormask",
+          "type": "hidden",
+          "class": "sf",
+          "id": "select-floormask"
+        },
+        {
+          "name": "class",
+          "type": "hidden",
+          "class": "sf",
+          "id": "select-class"
+        },
+        {
+          "name": "metro",
+          "class": "sf",
+          "type": "hidden",
+          "id": "metro"
+        },
+        {
+          "name": "location",
+          "type": "hidden",
+          "class": "sf select-location"
+        },
+        {
+          "name": "show_map",
+          "id": "show_map_field",
+          "type": "hidden"
+        }
+      ]
+    },
+    {
+      "attributes": {
+        "method": "GET",
+        "name": "IDSearch"
+      },
+      "inputs": [
+        {
+          "id": "id-search-input",
+          "class": "form-control",
+          "type": "text",
+          "name": "idsearch",
+          "value": "",
+          "placeholder": "Номер помещения"
+        }
+      ]
+    }
+  ],
+  "scripts": [
+    "/dist/main-1.2.js",
+    "https://api-maps.yandex.ru/2.1/?apikey=2d7e468f-c578-4731-9e38-46257a4505d8&lang=ru_RU",
+    "/dist/search-1.9.js"
+  ],
+  "property_links": [
+    "/arenda_ofisa_v_moskve/",
+    "/arenda_ofisa_v_moskve/",
+    "/ulitsa_zemlyanoj_val_64s2_b836.htm#arenda_ofisa_114909",
+    "/ulitsa_zemlyanoj_val_64s2_b836.htm#arenda_ofisa_114909",
+    "/ulitsa_zemlyanoj_val_50a_b1246.htm#arenda_ofisa_149064",
+    "/ulitsa_zemlyanoj_val_50a_b1246.htm#arenda_ofisa_149064",
+    "/ulitsa_zemlyanoj_val_7_b2936.htm#arenda_ofisa_251648",
+    "/ulitsa_zemlyanoj_val_7_b2936.htm#arenda_ofisa_251648",
+    "/ulitsa_zemlyanoj_val_7_b2936.htm#arenda_ofisa_29168",
+    "/ulitsa_zemlyanoj_val_7_b2936.htm#arenda_ofisa_29168",
+    "/ulitsa_zemlyanoj_val_7_b2936.htm#arenda_ofisa_245380",
+    "/ulitsa_zemlyanoj_val_7_b2936.htm#arenda_ofisa_245380"
+  ]
+}

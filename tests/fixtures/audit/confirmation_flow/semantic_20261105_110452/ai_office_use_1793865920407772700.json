@@ -1,0 +1,22 @@
+{
+  "text": "{\"verdict\": \"supported\", \"reason\": \"В s0:destination прямо указано назначение «офис», что непосредственно соответствует концепции «Офис для сотрудников». Согласно check_scope, отсутствие посетителей и продаж является контекстом работы, а не требованием дословного наличия в назначении.\"}",
+  "model": "mistralai/mistral-large-4-1t-a52b",
+  "metadata": {
+    "finish_reason": "stop",
+    "usage": {
+      "prompt_tokens": 2319,
+      "completion_tokens": 895,
+      "total_tokens": 3214,
+      "prompt_tokens_details": {
+        "cached_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 827
+      }
+    },
+    "model": "mistralai/mistral-large-4-1t-a52b",
+    "response_format": "json_object",
+    "reasoning_effort": "low",
+    "reasoning_budget": null
+  }
+}

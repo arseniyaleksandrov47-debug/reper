@@ -1,0 +1,13 @@
+{
+  "name": "listing",
+  "url": "https://domclick.ru/card/rent__free_purpose__2081945577",
+  "final_url": "https://domclick.ru/card/rent__free_purpose__2081945577",
+  "status": 401,
+  "bytes": 279,
+  "seconds": 0.09,
+  "fetched_at": "2026-11-05T06:33:07.632138+00:00",
+  "forms": [],
+  "scripts": [
+    "/__qrator/qauth_utm_v2d_v9118.js"
+  ]
+}
