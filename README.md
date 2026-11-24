@@ -3,6 +3,8 @@
 **Настольная система пространственной аналитики и подбора коммерческих помещений для открытия офлайн-бизнеса (Санкт-Петербург и Москва).**  
 *Desktop spatial analytics workbench & commercial real-estate scoring engine (Python / FastAPI / React + TypeScript / Leaflet / SQLite R-Tree).*
 
+**Установщик Windows (`Reper_Setup.exe`):** см. раздел [Releases](https://github.com/arseniyaleksandrov47-debug/reper/releases).
+
 ![Карта и предпросмотр базы в Reper](docs/screenshots/map-workspace.png)
 
 ![Сравнительная матрица и карточка помещения](docs/screenshots/comparison-matrix.png)
